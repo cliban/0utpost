@@ -1,0 +1,44 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "720684254820040714",
+    "type": "GuildTextChat",
+    "categoryId": "689700062774951944",
+    "category": "stuff",
+    "name": "rules",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "720687205257052190",
+      "type": "Default",
+      "timestamp": "2020-06-11T17:13:39.454+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1. if youre going to bring up a concept that could potentially impact the entire story, bring it up with a majority of the other members of the server, first, so that it could be discussed\n\n2. if things in a rp are going too fast or too slow and someone asks for some things to be revamped, discuss it with them so that things can run smoothly for both/all people involved\n\n3. if you are asked by another member to go to take a conversation to the #blacklist-chat or the #horny-jail , do it the first time they ask. if they ask, that means they’re uncomfortable with the conversation being in a regular channel. respect their boundaries.\n\n4. If one of your known triggers is being talked about, and its taken to the blacklist chat, please, for the love of god, *don’t* follow them into the blacklist chat. they moved it there for your sake, please don’t undermine that",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}
