@@ -1,0 +1,352 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "749197405802463282",
+    "type": "GuildTextChat",
+    "categoryId": "689505445051629631",
+    "category": "tesseracts",
+    "name": "bareslius-ombrage-line",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "749366787346268360",
+      "type": "Default",
+      "timestamp": "2020-08-29T20:36:04.665+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How do plasmas use the tesseract chat? since they don't have a human",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749366928380002414",
+      "type": "Default",
+      "timestamp": "2020-08-29T20:36:38.29+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((just their name",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749367434942873712",
+      "type": "Default",
+      "timestamp": "2020-08-29T20:38:39.064+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B]  Shade!",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749370609443799130",
+      "type": "Default",
+      "timestamp": "2020-08-29T20:51:15.924+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[O/V] Barselius! You own a Tesseract now?",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749590467468853319",
+      "type": "Default",
+      "timestamp": "2020-08-30T11:24:54.162+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B] Yeah!!! Took me long enough",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749590721291354134",
+      "type": "Default",
+      "timestamp": "2020-08-30T11:25:54.678+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[O/V] That's great! I am glad we can communicate now.",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749590988900794409",
+      "type": "Default",
+      "timestamp": "2020-08-30T11:26:58.481+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B] mhm. But i do prefer face to face",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749591345470898217",
+      "type": "Default",
+      "timestamp": "2020-08-30T11:28:23.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[O/V] Well, at least this will do for now. We can see eachother, but I would prefer to limit me going out. I don't want Morise to grow suspicious",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749592070557270087",
+      "type": "Default",
+      "timestamp": "2020-08-30T11:31:16.368+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B] fair... I guess i just kind of want to go out more... Either way",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749593273487851541",
+      "type": "Default",
+      "timestamp": "2020-08-30T11:36:03.169+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[O/V] I don't really have anything right now...I can come! I said I wanted to limit it, but not stop it entirely",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749593452001493072",
+      "type": "Default",
+      "timestamp": "2020-08-30T11:36:45.73+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B] Fair enough. Meet you at the #lake ?",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749593924191911936",
+      "type": "Default",
+      "timestamp": "2020-08-30T11:38:38.309+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((i think there's already a rp at the lake-",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749594243005153353",
+      "type": "Default",
+      "timestamp": "2020-08-30T11:39:54.32+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((ah fuck",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749594352094806016",
+      "type": "Default",
+      "timestamp": "2020-08-30T11:40:20.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B] NO WAIT NOT THE LAKE i don't think it's a good idea the lake... Maybe the river? or somewhere you wanna go",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749595625489825792",
+      "type": "Default",
+      "timestamp": "2020-08-30T11:45:23.93+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[O/V] The river sounds good, actually! :)",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 15
+}

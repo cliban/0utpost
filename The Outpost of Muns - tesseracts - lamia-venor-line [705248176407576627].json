@@ -1,0 +1,264 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "705248176407576627",
+    "type": "GuildTextChat",
+    "categoryId": "689505445051629631",
+    "category": "tesseracts",
+    "name": "lamia-venor-line",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "705248289171308544",
+      "type": "Default",
+      "timestamp": "2020-04-30T02:44:55.018+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[V/B] hey do you want to booby trap someone's house or something?",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "705250846019026944",
+      "type": "Default",
+      "timestamp": "2020-04-30T02:55:04.618+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[L/D] Fuck yes",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "705251274483957781",
+      "type": "Default",
+      "timestamp": "2020-04-30T02:56:46.772+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[V/B] awesome. Whos house?",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "705251442218369075",
+      "type": "Default",
+      "timestamp": "2020-04-30T02:57:26.763+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[L/D] Not Polaris'. He's sick",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "705251838970036285",
+      "type": "Default",
+      "timestamp": "2020-04-30T02:59:01.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[V/B] hmm. how about argenti's?",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "705252366903148594",
+      "type": "Default",
+      "timestamp": "2020-04-30T03:01:07.225+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[L/D] Sure. his boyfriend has a terrifying stand but I haven't seen him around much",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "705252576005980211",
+      "type": "Default",
+      "timestamp": "2020-04-30T03:01:57.079+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[V/B] Cool. I have supplies, see you there",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718748716558974989",
+      "type": "Default",
+      "timestamp": "2020-06-06T08:50:47.733+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[V/B] hye lsqia",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718748818673238027",
+      "type": "Default",
+      "timestamp": "2020-06-06T08:51:12.079+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[V/B] typng blind",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718748888273649715",
+      "type": "Default",
+      "timestamp": "2020-06-06T08:51:28.673+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[V/B] poid o m",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718748979562807337",
+      "type": "Default",
+      "timestamp": "2020-06-06T08:51:50.438+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[V/B] \uD83D\uDC41️\uD83D\uDC41️",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 11
+}

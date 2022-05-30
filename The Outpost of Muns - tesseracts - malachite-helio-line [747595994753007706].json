@@ -1,0 +1,176 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "747595994753007706",
+    "type": "GuildTextChat",
+    "categoryId": "689505445051629631",
+    "category": "tesseracts",
+    "name": "malachite-helio-line",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "747596199842021477",
+      "type": "Default",
+      "timestamp": "2020-08-24T23:20:23.708+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[M/N] i need to amputate a hand come glue it back on",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/1f7bd5b99feb5e25cf046c5993ac0016.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747596313876627558",
+      "type": "Default",
+      "timestamp": "2020-08-24T23:20:50.896+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[H/G] Huh???????",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747596453525848064",
+      "type": "Default",
+      "timestamp": "2020-08-24T23:21:24.191+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[H/G] First off why, second off where",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747596763824914574",
+      "type": "Default",
+      "timestamp": "2020-08-24T23:22:38.172+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[M/N] the lake",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/1f7bd5b99feb5e25cf046c5993ac0016.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747596834163261440",
+      "type": "Default",
+      "timestamp": "2020-08-24T23:22:54.942+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[M/N] through the fucked up glowing door",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/1f7bd5b99feb5e25cf046c5993ac0016.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747596897363165244",
+      "type": "Default",
+      "timestamp": "2020-08-24T23:23:10.01+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[M/N] illuvies is here but its fine",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/1f7bd5b99feb5e25cf046c5993ac0016.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747600205620445260",
+      "type": "Default",
+      "timestamp": "2020-08-24T23:36:18.76+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[H/G] _Illuvies is there?????_",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 7
+}

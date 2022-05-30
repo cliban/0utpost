@@ -1,0 +1,154 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "748076970620747857",
+    "type": "GuildTextChat",
+    "categoryId": "689505445051629631",
+    "category": "tesseracts",
+    "name": "shale-lamia-line",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "748077038061092914",
+      "type": "Default",
+      "timestamp": "2020-08-26T07:11:04.473+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B.B] I'm... sorry but",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748077119791169557",
+      "type": "Default",
+      "timestamp": "2020-08-26T07:11:23.959+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B.B] we lost Venor. I don't know if she's alive or not",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "750800968534458448",
+      "type": "Default",
+      "timestamp": "2020-09-02T19:35:00.106+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[Drac] YOU WHAT",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "750801086972952646",
+      "type": "Default",
+      "timestamp": "2020-09-02T19:35:28.344+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B.B] I'm sorry",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "750801324601245709",
+      "type": "Default",
+      "timestamp": "2020-09-02T19:36:24.999+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[Drac] I'll be right there",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "750803409707466772",
+      "type": "Default",
+      "timestamp": "2020-09-02T19:44:42.127+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B.B] i'm at my house",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 6
+}

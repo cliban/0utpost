@@ -1,0 +1,330 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "691452397213581414",
+    "type": "GuildTextChat",
+    "categoryId": "689505445051629631",
+    "category": "tesseracts",
+    "name": "solus-akosua-line",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "691452810021044236",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:06:36.481+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[S/J] What do you mean by \"secks\"? Do you mean \"sex\"?",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691452893760454706",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:06:56.446+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(Here we go)",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691453301996126248",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:08:33.777+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[A/M] Maybe?",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691453403846410320",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:08:58.06+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[S/J] Give me the context of the word.",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691453965925220408",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:11:12.07+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[A/M] People talked about wanting to have it.",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691454117054513222",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:11:48.102+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[C/J]Ah, I see. Do you know where babies come from?",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691454234071269396",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:12:16.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[A/M] No",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691454460496707604",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:13:09.985+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[S/J]Where do you think they're from?",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691454916933320756",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:14:58.808+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[A/M] ...I don't know...",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691459538242502696",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:33:20.614+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[S/J]Well, let's see, how should I put this?",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691461630365794365",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:41:39.415+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Solus explains sex, something I don't feel like putting into detail*",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691462564898537513",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:45:22.225+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[A/M] ...oh.......oh my .....",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691462666840965121",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:45:46.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[S/J] You ok?",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691462763826118666",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:46:09.653+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[A/M] I'm fine",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 14
+}

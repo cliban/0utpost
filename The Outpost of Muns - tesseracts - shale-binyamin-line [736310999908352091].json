@@ -1,0 +1,330 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "736310999908352091",
+    "type": "GuildTextChat",
+    "categoryId": "689505445051629631",
+    "category": "tesseracts",
+    "name": "shale-binyamin-line",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "736311141210521723",
+      "type": "Default",
+      "timestamp": "2020-07-24T19:57:36.064+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B.B] hey, would you mind doing a job for me? Or any of the plasma around, really, but i've noticed you shapeshift into a bird a lot",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736311702169059429",
+      "type": "Default",
+      "timestamp": "2020-07-24T19:59:49.807+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B] what job do you need to be done?",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736311924463239229",
+      "type": "Default",
+      "timestamp": "2020-07-24T20:00:42.806+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B.B] you plasma can basically enter the plasma zone undetected, right? I need someone to drop off some food for Polaris",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736312392409022505",
+      "type": "Default",
+      "timestamp": "2020-07-24T20:02:34.373+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B] Do they not give him food or something? I wouldn't put it past morise.",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736312584537505913",
+      "type": "Default",
+      "timestamp": "2020-07-24T20:03:20.18+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B.B] I don't think he knows where the food *is*. Also would you willingly taste *anything* Superbia cooks?",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736312926289264721",
+      "type": "Default",
+      "timestamp": "2020-07-24T20:04:41.66+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B] No, I wouldn't.",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736313322672226424",
+      "type": "Default",
+      "timestamp": "2020-07-24T20:06:16.165+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B.B] Exactly. could you drop off a bag of food and water for him?",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736313602713321744",
+      "type": "Default",
+      "timestamp": "2020-07-24T20:07:22.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B] Do you know where he is? I'd rather not get noticed.",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736313788722315405",
+      "type": "Default",
+      "timestamp": "2020-07-24T20:08:07.28+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B.B] just drop it off by the second entrance. I'll direct him where to go",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736314348015976508",
+      "type": "Default",
+      "timestamp": "2020-07-24T20:10:20.626+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "//which channel is the second entrance in?",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736314527293112450",
+      "type": "Default",
+      "timestamp": "2020-07-24T20:11:03.369+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((outside-the-base))",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736314567482802246",
+      "type": "Default",
+      "timestamp": "2020-07-24T20:11:12.951+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "// \uD83D\uDC4C thank",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736315375091974236",
+      "type": "Default",
+      "timestamp": "2020-07-24T20:14:25.5+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B] Alright. I'll be heading to your house shortly.",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736315618630041722",
+      "type": "Default",
+      "timestamp": "2020-07-24T20:15:23.564+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[B.B] \uD83D\uDC4D",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 14
+}

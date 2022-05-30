@@ -1,0 +1,286 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "732372530425233488",
+    "type": "GuildTextChat",
+    "categoryId": "689505445051629631",
+    "category": "tesseracts",
+    "name": "hamichi-lolite-line",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "732372692451459154",
+      "type": "Default",
+      "timestamp": "2020-07-13T23:07:36.707+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[H/K] Needdd helo. Purisde cant get ip easily",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "732372768783597672",
+      "type": "Default",
+      "timestamp": "2020-07-13T23:07:54.906+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[L/L] Lol what",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "732372898144321563",
+      "type": "Default",
+      "timestamp": "2020-07-13T23:08:25.748+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[H/K] Outisddeseee. Help pwase",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "732374375420002336",
+      "type": "Default",
+      "timestamp": "2020-07-13T23:14:17.958+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[H/K] :aww:",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "732375298279997480",
+      "type": "Default",
+      "timestamp": "2020-07-13T23:17:57.985+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[L/L] coming",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755214788421877771",
+      "type": "Default",
+      "timestamp": "2020-09-14T23:53:56.772+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[H/K] Heyyyy I might get some wine later. Any specific kind you want? If not then ill just get some red wine",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755215424295141566",
+      "type": "Default",
+      "timestamp": "2020-09-14T23:56:28.376+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[L/L] Ooo, Desert wine of course",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755215647482577047",
+      "type": "Default",
+      "timestamp": "2020-09-14T23:57:21.588+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[H/K] Does Nox drink?? If so what kinda wine would he like??",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755215965129670766",
+      "type": "Default",
+      "timestamp": "2020-09-14T23:58:37.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[L/L] nah he don’t lol",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755216543490506762",
+      "type": "Default",
+      "timestamp": "2020-09-15T00:00:55.213+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[H/K] Ok!!!! Does he like root beer? Im gonna pick some of that up as well. We can make ice cream floats!!!!!",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755216634838253599",
+      "type": "Default",
+      "timestamp": "2020-09-15T00:01:16.992+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[L/L] yeeesssss",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755216988498034870",
+      "type": "Default",
+      "timestamp": "2020-09-15T00:02:41.311+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[H/K] Ill definitely pick up some ice cream as well. This is gonna be great!!!",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 12
+}

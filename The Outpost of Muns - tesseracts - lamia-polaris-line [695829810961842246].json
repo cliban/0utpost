@@ -1,0 +1,132 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "695829810961842246",
+    "type": "GuildTextChat",
+    "categoryId": "689505445051629631",
+    "category": "tesseracts",
+    "name": "lamia-polaris-line",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "695830132501381201",
+      "type": "Default",
+      "timestamp": "2020-04-04T03:00:31.487+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[**Polaris**/Jotaro Kujo has entered the chat]",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "695830168274731088",
+      "type": "Default",
+      "timestamp": "2020-04-04T03:00:40.016+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[P/J] lamia. fight me",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "695830243881255033",
+      "type": "Default",
+      "timestamp": "2020-04-04T03:00:58.042+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[L/D] Bitch I've been waiting for a rematch",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "695830339813245009",
+      "type": "Default",
+      "timestamp": "2020-04-04T03:01:20.914+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[P/J] training room. 2 minutes. not waiting",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "695830440291860591",
+      "type": "Default",
+      "timestamp": "2020-04-04T03:01:44.87+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[**Polaris**/Jotaro Kujo has logged offline]",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 5
+}

@@ -1,0 +1,264 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "747336857444155452",
+    "type": "GuildTextChat",
+    "categoryId": "689505445051629631",
+    "category": "tesseracts",
+    "name": "malachite-nexum-line",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "747337104198991893",
+      "type": "Default",
+      "timestamp": "2020-08-24T06:10:50.493+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[M/N] nexum can you unfuck this",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/1f7bd5b99feb5e25cf046c5993ac0016.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747337252908040222",
+      "type": "Default",
+      "timestamp": "2020-08-24T06:11:25.948+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**[Malachite/Noriaki sent an image]**",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/1f7bd5b99feb5e25cf046c5993ac0016.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747337557599322233",
+      "type": "Default",
+      "timestamp": "2020-08-24T06:12:38.592+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[M/N] its a tracker or something can you fuck with it or do i have to perform impromptu amputation",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/1f7bd5b99feb5e25cf046c5993ac0016.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747338031970910339",
+      "type": "Default",
+      "timestamp": "2020-08-24T06:14:31.691+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[N/M] the fuck\n[N/M] idk man id have 2 see it in person\n[N/M] never really touche one before",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747338243086876734",
+      "type": "Default",
+      "timestamp": "2020-08-24T06:15:22.025+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[M/N] can you come to the lake",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/1f7bd5b99feb5e25cf046c5993ac0016.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747338457613074573",
+      "type": "Default",
+      "timestamp": "2020-08-24T06:16:13.172+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[M/N] illuvies is here but he doesnt seem murdery dont freak out too bad",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/1f7bd5b99feb5e25cf046c5993ac0016.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747338954885562470",
+      "type": "Default",
+      "timestamp": "2020-08-24T06:18:11.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[N/M] dont know who the hell illuvies is\n[N/M] i dont have anything rn so i guess I can",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747339019028922460",
+      "type": "Default",
+      "timestamp": "2020-08-24T06:18:27.024+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[M/N] great",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/1f7bd5b99feb5e25cf046c5993ac0016.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747339109802180650",
+      "type": "Default",
+      "timestamp": "2020-08-24T06:18:48.666+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[M/N] go in the ominous doorway I promise you arent getting punked",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/1f7bd5b99feb5e25cf046c5993ac0016.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747339287145742388",
+      "type": "Default",
+      "timestamp": "2020-08-24T06:19:30.948+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[N/M] if I am duvet will take care of u",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747339365159665676",
+      "type": "Default",
+      "timestamp": "2020-08-24T06:19:49.548+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "[M/N] yeah okay",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/1f7bd5b99feb5e25cf046c5993ac0016.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 11
+}
