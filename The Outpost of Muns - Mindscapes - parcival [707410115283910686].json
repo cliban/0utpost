@@ -1,0 +1,404 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "707410115283910686",
+    "type": "GuildTextChat",
+    "categoryId": "707409977568133263",
+    "category": "Mindscapes",
+    "name": "parcival",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "708482632572207165",
+      "type": "Default",
+      "timestamp": "2020-05-09T00:57:02.576+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "( @Bunnie Solus and Parcival in their mindscape??)",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "647570090694279215",
+          "name": "Bunnie",
+          "discriminator": "7041",
+          "nickname": "Albus | Caeli | Solus",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "708482696036483072",
+      "type": "Default",
+      "timestamp": "2020-05-09T00:57:17.707+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "// \uD83D\uDC40",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708482815423021097",
+      "type": "Default",
+      "timestamp": "2020-05-09T00:57:46.171+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(You want it to be this one or his?)",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708498323971112960",
+      "type": "Default",
+      "timestamp": "2020-05-09T01:59:23.697+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "//I'm okay with either!",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708499307938054214",
+      "type": "Default",
+      "timestamp": "2020-05-09T02:03:18.293+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(Flip a coin?)",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708499471553658930",
+      "type": "Default",
+      "timestamp": "2020-05-09T02:03:57.302+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "//yee",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708500245675507795",
+      "type": "Default",
+      "timestamp": "2020-05-09T02:07:01.867+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(Call it)",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708513573973786685",
+      "type": "Default",
+      "timestamp": "2020-05-09T02:59:59.581+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "//heads",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708513793721761812",
+      "type": "Default",
+      "timestamp": "2020-05-09T03:00:51.973+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(It’s tails)",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708514070621585408",
+      "type": "Default",
+      "timestamp": "2020-05-09T03:01:57.991+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "//so, here?",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708514319842803723",
+      "type": "Default",
+      "timestamp": "2020-05-09T03:02:57.41+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(Yup)",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708514362838745099",
+      "type": "Default",
+      "timestamp": "2020-05-09T03:03:07.661+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "// \uD83D\uDC4C",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708515146162634752",
+      "type": "Default",
+      "timestamp": "2020-05-09T03:06:14.42+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Parcival’s mindscape looks like an old-Timey hospital, with the surrounding streets full of shadow. Despite that, there’s things like a garden and a kitchen not unlike the one in the void.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708527905918943283",
+      "type": "Default",
+      "timestamp": "2020-05-09T03:56:56.583+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Solus wanders around, looking for Parcival.",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708528006955794523",
+      "type": "Default",
+      "timestamp": "2020-05-09T03:57:20.672+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Hello!” Someone calls from a window.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708528448351633408",
+      "type": "Default",
+      "timestamp": "2020-05-09T03:59:05.909+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He turns his head to the voice.",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708868710454132834",
+      "type": "Default",
+      "timestamp": "2020-05-10T02:31:10.716+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It’s Parcival! She waved at him.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 17
+}

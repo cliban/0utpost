@@ -1,0 +1,226 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "707410044269887510",
+    "type": "GuildTextChat",
+    "categoryId": "707409977568133263",
+    "category": "Mindscapes",
+    "name": "caeli",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "721550644896333825",
+      "type": "Default",
+      "timestamp": "2020-06-14T02:24:39.506+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Caeli's mindscape is a wide open area with perfect flying weather. There's also an airport with a bunch of airplanes to fly in. However, thanks to the fusion, it's merged with Helio's mindscape.",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721551291943354399",
+      "type": "Default",
+      "timestamp": "2020-06-14T02:27:13.774+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Pastel warrior of hope!!!",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "276805103447441409",
+          "name": "Pastel warrior of hope!!!",
+          "discriminator": "7725",
+          "nickname": "Heliotrope | Dulci | Vega",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "721551433849110618",
+      "type": "Default",
+      "timestamp": "2020-06-14T02:27:47.607+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Helio was scared and looking for Caeli",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721551677978705972",
+      "type": "Default",
+      "timestamp": "2020-06-14T02:28:45.812+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Caeli hugs helio.",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEC",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1ec.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEE",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1ee.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1f4.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1f3.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDD70️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f170.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1f7.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1e6.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "721557656015339571",
+      "type": "Default",
+      "timestamp": "2020-06-14T02:52:31.087+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I'm here for you, Heelie.\"",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721557933913145424",
+      "type": "Default",
+      "timestamp": "2020-06-14T02:53:37.343+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He just whimpered and hugged him tightly",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 6
+}

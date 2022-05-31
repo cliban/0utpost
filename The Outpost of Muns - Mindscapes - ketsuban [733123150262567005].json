@@ -1,0 +1,186 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "733123150262567005",
+    "type": "GuildTextChat",
+    "categoryId": "707409977568133263",
+    "category": "Mindscapes",
+    "name": "ketsuban",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "733123179022647416",
+      "type": "Default",
+      "timestamp": "2020-07-16T00:49:46.649+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":PogNexum:",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "733124113626955776",
+      "type": "Default",
+      "timestamp": "2020-07-16T00:53:29.476+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ketsu sat on a small... Something in the middle of the sea of flashing colours and sounds, constantly seeming to be both overwhelming and just not enough.... An odd mix of calming and panic, they knew that it was just an island at sea... That's what it must have been, but the screeching sounds in the air and the flashing water that seemed to be trying to say something to them served to try to prove them otherwise.\n\n\nDespite all of this... They felt oddly safe... Somewhere where they felt they finally fit in...",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690407334501154836",
+            "name": "aww",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690407334501154836.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "733124711189315675",
+      "type": "Default",
+      "timestamp": "2020-07-16T00:55:51.946+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sometimes, they never wanted to leave, but the mindscape always felt restricted to just the island... They didn't know what lied under the waves, and were scared that they'd never surface if they went under...",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "733125289353150515",
+      "type": "Default",
+      "timestamp": "2020-07-16T00:58:09.791+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "( hehe I like writing stuff like this. Exploring a character through an environment.)",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "733125738043277383",
+      "type": "Default",
+      "timestamp": "2020-07-16T00:59:56.767+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "( what do y'all think? )",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "733125814740058122",
+      "type": "Default",
+      "timestamp": "2020-07-16T01:00:15.053+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((i like it!))",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "733126154168565782",
+      "type": "Default",
+      "timestamp": "2020-07-16T01:01:35.979+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "( thanks!)",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 7
+}

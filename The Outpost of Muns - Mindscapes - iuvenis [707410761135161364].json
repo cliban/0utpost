@@ -1,0 +1,2354 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "707410761135161364",
+    "type": "GuildTextChat",
+    "categoryId": "707409977568133263",
+    "category": "Mindscapes",
+    "name": "iuvenis",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "707763100379774987",
+      "type": "Default",
+      "timestamp": "2020-05-07T01:17:52.733+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Iuvenis’ station of awakening is altered somewhat to have some more futuristic elements, and one of his circles is brighter red. “Wh-Where am I...?”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "707763701268086805",
+      "type": "Default",
+      "timestamp": "2020-05-07T01:20:15.996+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Iuvenis was sitting at the edge of the station, his legs dangling, he looks over to Wanderer, “Oh, h-h-hey Wander.”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "707763930721812621",
+      "type": "Default",
+      "timestamp": "2020-05-07T01:21:10.702+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Hi, Iuvenis...” she sat down next to him, tail swishing back and forth.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "707764962222932020",
+      "type": "Default",
+      "timestamp": "2020-05-07T01:25:16.631+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“What’s u-up?” He softly spoke, looking into the abyss of...whatever the station was raised from.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "707765227478843422",
+      "type": "Default",
+      "timestamp": "2020-05-07T01:26:19.873+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Well...not a whole lot if I’m being honest...just...thinking about things.”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "707766262146793523",
+      "type": "Default",
+      "timestamp": "2020-05-07T01:30:26.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“S-Same.......what s-stuff th-though..”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "707766675784859671",
+      "type": "Default",
+      "timestamp": "2020-05-07T01:32:05.176+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“...I miss mom and dad...”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "707766994262425702",
+      "type": "Default",
+      "timestamp": "2020-05-07T01:33:21.107+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Oh......th-that’s...rough..”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "707788913250664490",
+      "type": "Default",
+      "timestamp": "2020-05-07T03:00:27.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She nodded. “But theyre...Y’know...busy...”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "707789272371036291",
+      "type": "Default",
+      "timestamp": "2020-05-07T03:01:52.622+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Y-Yeah.....it m-may not h-h-help but....I’m su-sure you’ll s-see them again-in...”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "707790392161992754",
+      "type": "Default",
+      "timestamp": "2020-05-07T03:06:19.601+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“I...I hope so...”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "707791082389504032",
+      "type": "Default",
+      "timestamp": "2020-05-07T03:09:04.164+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“M-Me too....yo-your parents a-are nice pe-people....”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708012493930233916",
+      "type": "Default",
+      "timestamp": "2020-05-07T17:48:52.789+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“They are! They’re both great Muns!”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708013163194613775",
+      "type": "Default",
+      "timestamp": "2020-05-07T17:51:32.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“I w-Wish I could m-m-meet them..”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708013287274446899",
+      "type": "Default",
+      "timestamp": "2020-05-07T17:52:01.937+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“M-Maybe, when we get back, you can...”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708072664144543936",
+      "type": "Default",
+      "timestamp": "2020-05-07T21:47:58.486+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I-I'm sure they'd like to meet you.\"",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708073204182417460",
+      "type": "Default",
+      "timestamp": "2020-05-07T21:50:07.241+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Y-You think....?” A twinge of Hope In his eyes as he looks up.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708082260813021314",
+      "type": "Default",
+      "timestamp": "2020-05-07T22:26:06.51+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She nodded. \"Yeah, I do!\"",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708082548571504741",
+      "type": "Default",
+      "timestamp": "2020-05-07T22:27:15.117+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Th-that’s...nice...” he mumbled. Playing with his fingers.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708082771444236298",
+      "type": "Default",
+      "timestamp": "2020-05-07T22:28:08.254+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“I-Is...something wrong with you? You seem kind of sad too...”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708083238228459521",
+      "type": "Default",
+      "timestamp": "2020-05-07T22:29:59.544+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Hmm..? Oh,...j-just thinking ab-about...h-h-him..”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708083340724535348",
+      "type": "Default",
+      "timestamp": "2020-05-07T22:30:23.981+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“... Y-Your brother...?”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708084115307495426",
+      "type": "Default",
+      "timestamp": "2020-05-07T22:33:28.656+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Yeah...I tried to make him here but.....” he points to a blackish goop on the far side of the station “it didn’t go well.” Iuvenis sighs, “the only lead I have to finding him is someone I don’t know the location of anymore.....”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708084276792524913",
+      "type": "Default",
+      "timestamp": "2020-05-07T22:34:07.157+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Ohh...” she looked back at the goo. “...Who is that someone?”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708085848645828719",
+      "type": "Default",
+      "timestamp": "2020-05-07T22:40:21.916+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“His best frien.....w-w-well I’m n-not sure if th-they’re still that....a mun n-named....Solum...all I remember is that h-he jo-joined the p-p-plasma side n-not too long a-ago....I do-don’t e-even know if h-he’s still a-alive-I....even if h-he is....wo-would he be w-willing to he-help? W-What if....he kil....”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708086361927974962",
+      "type": "Default",
+      "timestamp": "2020-05-07T22:42:24.292+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“H-Hey! Y-You cant think like th-that!” She places a quick hand on his shoulder.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708089224049590412",
+      "type": "Default",
+      "timestamp": "2020-05-07T22:53:46.675+00:00",
+      "timestampEdited": "2020-05-07T22:54:07.621+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“S-Sorry...I j-just....don’t ev-even know...**w-where this g-g-guy is!**..” he throws his hands up in the air",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708092727501258835",
+      "type": "Default",
+      "timestamp": "2020-05-07T23:07:41.963+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Not to m-mention he’s o-o-on the op-opposite side o-of the revolution...”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708092914689114192",
+      "type": "Default",
+      "timestamp": "2020-05-07T23:08:26.592+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She shudders, looking nervous. “O-Oh...”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708097798280839179",
+      "type": "Default",
+      "timestamp": "2020-05-07T23:27:50.931+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Y-Yeah...Weird c-considering ho-how the plasma t-t-treated us...Do they ev-even have a-any muns on-n their s-s-side?.”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708098071774363699",
+      "type": "Default",
+      "timestamp": "2020-05-07T23:28:56.137+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“I should hope not...or...do you *think* there are plasma who could be nice? I know it sounds crazy, but...”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708116674725019729",
+      "type": "Default",
+      "timestamp": "2020-05-08T00:42:51.426+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“I-I don’t k-know... ma-maybe? It’s k-k-kinda hard to b-believe with the t-things they d-d-done if they ha-have a single nice-e bone in t-their body...”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708321220575232073",
+      "type": "Default",
+      "timestamp": "2020-05-08T14:15:38.957+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She nodded slowly. “I-I don’t know what to believe...about anything...”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708322796064866414",
+      "type": "Default",
+      "timestamp": "2020-05-08T14:21:54.583+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“ B-But I kn-know I gotta f-find him...I g-g-gotta! It’s w-what big br-brother  w-would’ve wa-wanted!” He pumps his fists in the air with determination, “I’ll find y-you Solum! A-A-And then Brother t-too! So W-watch out!”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708402778887815248",
+      "type": "Default",
+      "timestamp": "2020-05-08T19:39:43.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“A-And I’ll help...any way I can.”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708403656143142954",
+      "type": "Default",
+      "timestamp": "2020-05-08T19:43:13.128+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“T-Thank you....I-It means a-a lot to m-m-me....” he gives a big smile,",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708406292078657616",
+      "type": "Default",
+      "timestamp": "2020-05-08T19:53:41.584+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"That's what friends do, right?\" She smiled back.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708444640814301218",
+      "type": "Default",
+      "timestamp": "2020-05-08T22:26:04.635+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"They help each other.\"",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708447502764081184",
+      "type": "Default",
+      "timestamp": "2020-05-08T22:37:26.977+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Y-Yeah......I’m gl-glad we’re f-friends...” he said, before laughing, “Nobody c-can stop t-t-the two o-of us!”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690407334501154836",
+            "name": "aww",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690407334501154836.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "708447684024860752",
+      "type": "Default",
+      "timestamp": "2020-05-08T22:38:10.193+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Y-Yeah! Me too! W-We'll be the best team the multiverse's ever seen!\" She giggled.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690407334501154836",
+            "name": "aww",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690407334501154836.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "708448274226348093",
+      "type": "Default",
+      "timestamp": "2020-05-08T22:40:30.908+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Y-You hear t-that plasma? Your d-d-days are nu-numbered!” He gleefully shouts into the void of his mindscape, the entire circle glowing, almost proudly.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690407334501154836",
+            "name": "aww",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690407334501154836.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "708448795897102399",
+      "type": "Default",
+      "timestamp": "2020-05-08T22:42:35.284+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wanderer grinned happily, looking down at the glowing station at her feet. \"We're coming for you!!\" She cheered.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690407334501154836",
+            "name": "aww",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690407334501154836.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "708453815971610714",
+      "type": "Default",
+      "timestamp": "2020-05-08T23:02:32.163+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As they cheered, the place rumbled as the pillar holding the station lowered a bit, now...even though it’s hard to see, globs of stars dotted the void surrounding them,",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708464028162195486",
+      "type": "Default",
+      "timestamp": "2020-05-08T23:43:06.939+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"What the-?!\" She gasped, clinging onto him as the station rumbled.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708465405206855681",
+      "type": "Default",
+      "timestamp": "2020-05-08T23:48:35.252+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“A-Ah!” He hugged Wanderer tightly, squeezing his eyes shut as the place kept shaking and lowering before an abrupt stop.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708466100051902634",
+      "type": "Default",
+      "timestamp": "2020-05-08T23:51:20.916+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“....Wh-What was that...?” She asked, looking a little startled.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708470039518380063",
+      "type": "Default",
+      "timestamp": "2020-05-09T00:07:00.158+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“I-I don’t k-know....bu-but it stopped...” he looked equally as startled",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708471097904988160",
+      "type": "Default",
+      "timestamp": "2020-05-09T00:11:12.497+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I...I hope it doesn't happen again...\" (OH IT WILL i'm sure of it)",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708471894558507009",
+      "type": "Default",
+      "timestamp": "2020-05-09T00:14:22.434+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Little did they know-))\n“I-I’m sure it w-won’t...be-besides...none of the-e mons-monsters showed u-up so....it m-must be a g-g-good thing.”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708471984366944619",
+      "type": "Default",
+      "timestamp": "2020-05-09T00:14:43.846+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Y-You have monsters...?\" She shuddered.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708473416319107154",
+      "type": "Default",
+      "timestamp": "2020-05-09T00:20:25.25+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Y-Yeah? Do-doesn’t e-everyone?”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708479008110542959",
+      "type": "Default",
+      "timestamp": "2020-05-09T00:42:38.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"M-Maybe...? I've only been in a few mindscapes, and I've never seen any...other than mine...\"",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708479990605283389",
+      "type": "Default",
+      "timestamp": "2020-05-09T00:46:32.682+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“H-huh.....”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708485611916361789",
+      "type": "Default",
+      "timestamp": "2020-05-09T01:08:52.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She nodded. \"B-But I'm glad your monsters didn't...you know...\"",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708486256366977104",
+      "type": "Default",
+      "timestamp": "2020-05-09T01:11:26.556+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“...m-me too...they’re r-really sc-scary....they don’t h-hurt me b-b-but....others..”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708486403066953779",
+      "type": "Default",
+      "timestamp": "2020-05-09T01:12:01.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"S-So...they don't let anyone else in...?\"",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708487231912017940",
+      "type": "Default",
+      "timestamp": "2020-05-09T01:15:19.144+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Y-Yup....” he taps his fingertips together",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708500849147641877",
+      "type": "Default",
+      "timestamp": "2020-05-09T02:09:25.746+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“B-But im here now, so that’s a start...”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708501912227545090",
+      "type": "Default",
+      "timestamp": "2020-05-09T02:13:39.204+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Mhmm..” he smiles brightly",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708502776040128554",
+      "type": "Default",
+      "timestamp": "2020-05-09T02:17:05.153+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She smiled back, hugging him. “I’m really happy you trust me enough to let me in here.”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708503766990585936",
+      "type": "Default",
+      "timestamp": "2020-05-09T02:21:01.414+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Iuvenis was suprised at hug, “W-Well....you’re my best f-friend ! Of c-course!”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708730175378030602",
+      "type": "Default",
+      "timestamp": "2020-05-09T17:20:41.38+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“B-Best friend...” she repeated, tail swishing happily.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708731034593656932",
+      "type": "Default",
+      "timestamp": "2020-05-09T17:24:06.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Uh huh! My B-Bestest F-F-Friend!” He laughed, tail thumping up and down, the star on the tip glowing",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690407334501154836",
+            "name": "aww",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690407334501154836.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "708735611942731806",
+      "type": "Default",
+      "timestamp": "2020-05-09T17:42:17.558+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Oh! Your tail, it’s glowing! That’s so cool!!”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708736795944288366",
+      "type": "Default",
+      "timestamp": "2020-05-09T17:46:59.846+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“I-It does th-that a l-lot...” he gets embarrassed “your t-tail is coo-l too... you c-c-can fight s-somemun with I-it..!”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708752194303688794",
+      "type": "Default",
+      "timestamp": "2020-05-09T18:48:11.101+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Y-Yeah, I'd rather not, though...\" She traced a circle on the station with her tail.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708752361983705261",
+      "type": "Default",
+      "timestamp": "2020-05-09T18:48:51.079+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“O-Oh....it’s st-still cool...”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708802885332500581",
+      "type": "Default",
+      "timestamp": "2020-05-09T22:09:36.784+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She blushed a bit. “Uh...thanks...”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708803439920021535",
+      "type": "Default",
+      "timestamp": "2020-05-09T22:11:49.008+00:00",
+      "timestampEdited": "2020-05-09T22:12:11.229+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“N-No problem....” he stutters \nIt becomes quite as neither know what to say\n“.....w-wanna see i-if I can ma-make big brother a-again?”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708841774759673897",
+      "type": "Default",
+      "timestamp": "2020-05-10T00:44:08.746+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“S-Sure!” She nodded, looking a bit excited.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708843634778308680",
+      "type": "Default",
+      "timestamp": "2020-05-10T00:51:32.209+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He took a few steps to the pile of goop, holding his hands over it, concentrating on shaping it",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708851761854545950",
+      "type": "Default",
+      "timestamp": "2020-05-10T01:23:49.855+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She turned around, getting a little closer so she can watch.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708851993388515379",
+      "type": "Default",
+      "timestamp": "2020-05-10T01:24:45.057+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The goop started to move and slosh around, slowly starting to morph into a generic mun shape",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708852121168248874",
+      "type": "Default",
+      "timestamp": "2020-05-10T01:25:15.522+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She smiled, looking excited. Her tail was wagging, but she didn’t want to say anything to break his focus.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708852864046596178",
+      "type": "Default",
+      "timestamp": "2020-05-10T01:28:12.638+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "His face was scrunched up, focusing a hard amount, as the molds the features of Veteris\nThough in his absorption of the moment he failed to hear the sounds of the cracking of joints behind them",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690399311564898394",
+            "name": "blur",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690399311564898394.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "708853281224523800",
+      "type": "Default",
+      "timestamp": "2020-05-10T01:29:52.101+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wanderer, however, does hear it, and she turns around.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708855699207094362",
+      "type": "Default",
+      "timestamp": "2020-05-10T01:39:28.593+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What she sees are....disturbing creatures\nLong slender claws bound together by black straps, thin humanoid bodies contorting in different manners, gaping zipper like mouths, lumpy triangular heads, slowly encroaching.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708857237547909212",
+      "type": "Default",
+      "timestamp": "2020-05-10T01:45:35.362+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wanderer looked scared, but she looked back at Iuvenis, seeing how focused he was.  She readied her spear tail for a fight.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708858420601684130",
+      "type": "Default",
+      "timestamp": "2020-05-10T01:50:17.424+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The monsters slowly wobble towards Wanderer, their mouths snapping eagerly as they get *very* close \nThen\nA singular, metal, clang.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690399311564898394",
+            "name": "blur",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690399311564898394.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "708858684544909344",
+      "type": "Default",
+      "timestamp": "2020-05-10T01:51:20.353+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She stabbed one that got to close for comfort in the chest, more out of panic than actual strategy.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708860310135767070",
+      "type": "Default",
+      "timestamp": "2020-05-10T01:57:47.924+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The thing stumbled back from the attack, rearing it’s claws to strike her\nA shadowy hand stopped it, the monster suddenly ripped in half. If wanderer were to look behind her, she would see two monsters laying dead(?) on the ground, one having the same fate as this one",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690399311564898394",
+            "name": "blur",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690399311564898394.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "708860564105068635",
+      "type": "Default",
+      "timestamp": "2020-05-10T01:58:48.475+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“What the-?!” She looked around, trying to find her mysterious ally.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708863159011639327",
+      "type": "Default",
+      "timestamp": "2020-05-10T02:09:07.149+00:00",
+      "timestampEdited": "2020-05-10T02:09:39.441+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As her eyes dart , the shadowy figure blurred around the void, cutting down the remaining monsters like trees, the few glances she could grab, they did not look familiar at all, Iuvenis, tired from using most of his energy, on the other hand had a excited grin, stars in his eyes. \nThe mystery savior finally lands on the station, one of the circles glowing a bright blue, the scythe he was wielding dissipates,  \n“V-V-Vet....”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708863399122960384",
+      "type": "Default",
+      "timestamp": "2020-05-10T02:10:04.396+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Vet...?” Wanderer repeated, approaching her powerful new ally.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708865679104933929",
+      "type": "Default",
+      "timestamp": "2020-05-10T02:19:07.986+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The shadow looks up at the two kids, apporching Iuvenis, and crouches\nWas he smiling? They couldn’t tell, he didn’t really have a mouth, well, a noticeable one, the boys smile was very noticeable however, as shadow cupped his face and gently bonked his head against his, almost if saying, *hey little brother*\n“V-Veteris!”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709129090954821713",
+      "type": "Default",
+      "timestamp": "2020-05-10T19:45:50.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wanderer watched this, smiling happily.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709163380300185661",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:02:05.482+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "( @◎☆E☆◎",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "476031767791403009",
+          "name": "◎☆E☆◎",
+          "discriminator": "8871",
+          "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "709163945889628190",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:04:20.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“A-Ah Wander, this i-is....my bi-big brother.....we-welll...not really...but...” he gestures to the shadowy form.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709164141893648484",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:05:07.06+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Oh! I see! Nice to meet you!” She waved at the shadow.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709165521660149810",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:10:36.022+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It looks at her with empty eyes, a cold, silent expression on it ~~just like the real thing~~\nIt awkwardly mimics her wave",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709165917296263170",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:12:10.349+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Hmm...” she giggled. “K-Kinda reminds me of Suzy Q...”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709166630822739981",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:15:00.467+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“S-Suzy wh-whozit?” He looks confused as his head tilts",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709167173817598064",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:17:09.927+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“One of my monsters...the only one who actually notices me.”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709168280257953863",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:21:33.723+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“O-Oh.....that Ni-nice I g-g-guess..” the shadow blinked their white eyes in confusion",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709168342988095509",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:21:48.679+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“...W-Would you like to meet her?”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709170021594693673",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:28:28.89+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“I m-mean....wo-would she....a-a-attack me?”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709170186141434020",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:29:08.121+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The word attack made the shadow tense up \nSummoning it’s scythe, eyes darting around",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709171057860411464",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:32:35.955+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“N-No, she wouldn’t!”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709173262461960364",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:41:21.573+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“T-Then I g-guess I’d like t-to me-meet her...”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709174108058943509",
+      "type": "Default",
+      "timestamp": "2020-05-10T22:44:43.179+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“OK.” She nodded. “She’s in my mindscape. You ready to go?”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709178507539906722",
+      "type": "Default",
+      "timestamp": "2020-05-10T23:02:12.097+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Y-Yup...” he turns to shadow Veteris patting it on the head, “Bye-Bye...” unbeknownst to him, it would not stay in his realm.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709178848545079388",
+      "type": "Default",
+      "timestamp": "2020-05-10T23:03:33.399+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She smiled, taking his hand and leading him into ( #aion  ) her mindscape",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 102
+}

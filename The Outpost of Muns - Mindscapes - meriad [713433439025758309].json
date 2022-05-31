@@ -1,0 +1,272 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "713433439025758309",
+    "type": "GuildTextChat",
+    "categoryId": "707409977568133263",
+    "category": "Mindscapes",
+    "name": "meriad",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "713433620425080892",
+      "type": "Default",
+      "timestamp": "2020-05-22T16:50:30.065+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Meriad is trying to fight the goop off in her mind\n\n@Radioactive Lain",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "392013055224971265",
+          "name": "Radioactive Lain",
+          "discriminator": "4024",
+          "nickname": "Mnaderstark The First",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "713436828971171881",
+      "type": "Default",
+      "timestamp": "2020-05-22T17:03:15.042+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She is....not winning...",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "713437011620659252",
+      "type": "Default",
+      "timestamp": "2020-05-22T17:03:58.589+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the goop is crawling everywhere, and Meriad is surrounded, she could hear a very faint whisper *give up*",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "713437866138665020",
+      "type": "Default",
+      "timestamp": "2020-05-22T17:07:22.322+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"G-Get out of me....!\" Shes so scared \"Wh-why do you want me?!\"",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "713438163346915399",
+      "type": "Default",
+      "timestamp": "2020-05-22T17:08:33.182+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*\"give up\"* the whisper was louder *\"I just want a body\"*",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "713438564821762078",
+      "type": "Default",
+      "timestamp": "2020-05-22T17:10:08.901+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Th-this is m-my body! G-Go away!\"",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "713438785030979715",
+      "type": "Default",
+      "timestamp": "2020-05-22T17:11:01.403+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the goop was still here *\"please let me have a body\"* it was crawling onver her too",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "713438973573333053",
+      "type": "Default",
+      "timestamp": "2020-05-22T17:11:46.355+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Shes starting to loose control \"N....No.....It....its my....body...\"",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "713439254491037717",
+      "type": "Default",
+      "timestamp": "2020-05-22T17:12:53.331+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The goop kept saying the same phrase *\"let me have a body\"* while taking more and more control",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "713439583831982110",
+      "type": "Default",
+      "timestamp": "2020-05-22T17:14:11.852+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Eventually she couldnt fight anymore, passing out and allowing the goop full control",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "713439703847665759",
+      "type": "Default",
+      "timestamp": "2020-05-22T17:14:40.466+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*finally* the goop took full control of Meriad",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 11
+}

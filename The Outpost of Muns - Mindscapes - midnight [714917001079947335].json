@@ -1,0 +1,66 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "714917001079947335",
+    "type": "GuildTextChat",
+    "categoryId": "707409977568133263",
+    "category": "Mindscapes",
+    "name": "midnight",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "714917736106557500",
+      "type": "Default",
+      "timestamp": "2020-05-26T19:07:50.817+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Oh shit.*\n*Welp, this exists now. It's kinda dark, to be honest. Everything has a sort of purple on it, although it is kind of a mess. Faint but constant internal screaming can be heard.*",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "714918253759168564",
+      "type": "Default",
+      "timestamp": "2020-05-26T19:09:54.235+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Is that a good description?*",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

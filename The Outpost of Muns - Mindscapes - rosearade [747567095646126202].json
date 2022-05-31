@@ -1,0 +1,272 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "747567095646126202",
+    "type": "GuildTextChat",
+    "categoryId": "707409977568133263",
+    "category": "Mindscapes",
+    "name": "rosearade",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "747573421789151332",
+      "type": "Default",
+      "timestamp": "2020-08-24T21:49:52.997+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Rose is here",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747579750922584234",
+      "type": "Default",
+      "timestamp": "2020-08-24T22:15:01.98+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Radioactive Lain",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "392013055224971265",
+          "name": "Radioactive Lain",
+          "discriminator": "4024",
+          "nickname": "Mnaderstark The First",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "747579854723219488",
+      "type": "Default",
+      "timestamp": "2020-08-24T22:15:26.728+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Quartz fell down",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747580032834207764",
+      "type": "Default",
+      "timestamp": "2020-08-24T22:16:09.193+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Are you ok??\"",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747580526998716435",
+      "type": "Default",
+      "timestamp": "2020-08-24T22:18:07.011+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She slowly got up \"I am... Not used to others mindscapes\"",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747583952407232583",
+      "type": "Default",
+      "timestamp": "2020-08-24T22:31:43.692+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She chuckled \"Yeah thats fair....\"",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747585734684442714",
+      "type": "Default",
+      "timestamp": "2020-08-24T22:38:48.62+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"So. It's pretty Nice here\" She chuckled",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747585974367813663",
+      "type": "Default",
+      "timestamp": "2020-08-24T22:39:45.765+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Thanks! Oh!!! Let me show you my cave!!!\" She grabs her hand",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747586465680064602",
+      "type": "Default",
+      "timestamp": "2020-08-24T22:41:42.903+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Quartz blushed slightly \"Alright !\"",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747868000467812454",
+      "type": "Default",
+      "timestamp": "2020-08-25T17:20:26.027+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She smiled and ran to the cave with her",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747930689550286949",
+      "type": "Default",
+      "timestamp": "2020-08-25T21:29:32.269+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Your mindscape is so different from mine it's crazy !\"",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 11
+}
