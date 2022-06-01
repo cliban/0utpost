@@ -1,0 +1,566 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "688838456230674481",
+    "type": "GuildTextChat",
+    "categoryId": "688795366799441921",
+    "category": "the void",
+    "name": "outpost-hub",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "693991068722790467",
+      "type": "Default",
+      "timestamp": "2020-03-30T01:12:44.514+00:00",
+      "timestampEdited": "2020-03-30T01:13:10.242+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dwelling on it....He didn’t know why he spent so much time here....though it’s not like Solum was needed anywhere.......or just needed in general...",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "693991775370477680",
+      "type": "Default",
+      "timestamp": "2020-03-30T01:15:32.992+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Venor hasn't noticed anyone. She's in her own little world of zoning out. Thinking about things. She's sitting in a corner with her legs outstretched, hands folded onto her lap.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "693994479085944833",
+      "type": "Default",
+      "timestamp": "2020-03-30T01:26:17.608+00:00",
+      "timestampEdited": "2020-03-30T01:26:45.514+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Walking in, he notices that there’s already a presence.. a quiet “*Ah*...” escaping....he tries his best using the singular wing to cover most of his upper half, then kneeling no too far from Valor, occasionally peeking to obverse her before retreating back behind his cover.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "693995949059473458",
+      "type": "Default",
+      "timestamp": "2020-03-30T01:32:08.077+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Venor snaps her head up, hearing a quiet noise, and springs into a crouch, already muttering words in case she needs to hypnotize anyone. A pale blue smoke starts curling around her mouth. \"Who's there?\" she says quietly, but her knuckles are white and her shoulders are stiff",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "693998804021805067",
+      "type": "Default",
+      "timestamp": "2020-03-30T01:43:28.753+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The abrupt movement along with the muttering and smoke cause Solum to yelp in surprise, and lose balance, toppling over as his limbs flail, before oh so not gracefully landing on his lower back, the feathery appendage quickly returning to its former place. Quivering, no words come out of his mouth....he just prays that if this lady throws a punch his wing will take the blow instead of his already cracked porcelain face.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "693999672028561479",
+      "type": "Default",
+      "timestamp": "2020-03-30T01:46:55.702+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Venor springs up, almost shrieking. She backs up, hits the wall, and steels herself before walking quietly over. \"Who are you?\" she gets rid of the fear, leaving her emotionless once again. She unintentionally looms over him, wrapping her tail around her waist.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "694004182281355314",
+      "type": "Default",
+      "timestamp": "2020-03-30T02:04:51.03+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "With this seemingly hostile woman looming over him, it was kinda hard to respond, though slowly peeked out, still not making eye contact. “*S-Solum.*...” he squeaked in a shaky voice,",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "694004790040199259",
+      "type": "Default",
+      "timestamp": "2020-03-30T02:07:15.931+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I see.\" Venor takes a slow moment to think about what's morally correct here. She eventually outstretches a hand. \"I'm Venor.\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "694013179755495434",
+      "type": "Default",
+      "timestamp": "2020-03-30T02:40:36.195+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“....thank you..” He reluctantly took her hand, using it to pull himself up, the wing retreating behind his back, though he looks down at his feet, mostly Solum was just not really in the mood for seeing the looks of disgust on their face when they see **His**.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "694014354042912818",
+      "type": "Default",
+      "timestamp": "2020-03-30T02:45:16.167+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Venor tilts her head in order to see his face better. \"It appears there's been a lapse in social conduct. It's normally considered impolite not to make eye contact, but due to my normal standards, I'll let that slide.\" She self-consciously brushes her hair over the dark patch over her eye, accepting that her normal patterns, however they may present her as broken, are very hard to hide.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "694382558854774915",
+      "type": "Default",
+      "timestamp": "2020-03-31T03:08:23.035+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“A-Ah...sorry..” he felt like he had to snap his head up in order to get it to stay that way, none the less, he complied. Though awkward silence washed over as the cluelessness of what to say sets in, “do....you..come here often?”",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "694388454833913898",
+      "type": "Default",
+      "timestamp": "2020-03-31T03:31:48.746+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"It's fine.\" Venor takes a second, her face devoid of expression. \"Sometimes. I tend to reside around the lake, though I now actually have a home. Do you?\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718510054730498081",
+      "type": "Default",
+      "timestamp": "2020-06-05T17:02:26.319+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "---------------------\n\nRadium was flying on her on her rock, looking for one of the goop's host, Rodophis.",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718517258439229533",
+      "type": "Default",
+      "timestamp": "2020-06-05T17:31:03.817+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Gekitoutsu Rispba",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "380883418197524480",
+          "name": "Gekitoutsu Rispba",
+          "discriminator": "8038",
+          "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "718518118166823012",
+      "type": "Default",
+      "timestamp": "2020-06-05T17:34:28.792+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She’s there, and she seems to know that Radium there too. She looked a little solemn.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718518745542295562",
+      "type": "Default",
+      "timestamp": "2020-06-05T17:36:58.37+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "she noticed her and approached \"Rodophis, right ? I'm guessing you know why I'm here\" she crossed her arms",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718519304018067566",
+      "type": "Default",
+      "timestamp": "2020-06-05T17:39:11.521+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Yes...” she nodded.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718519537745789042",
+      "type": "Default",
+      "timestamp": "2020-06-05T17:40:07.246+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Alright then, goop, get out\" She took out her Vacuum \"Anything tou want to say before you go ?\"",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718530018816557126",
+      "type": "Default",
+      "timestamp": "2020-06-05T18:21:46.128+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Gekitoutsu Rispba",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "380883418197524480",
+          "name": "Gekitoutsu Rispba",
+          "discriminator": "8038",
+          "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "718530495641682040",
+      "type": "Default",
+      "timestamp": "2020-06-05T18:23:39.812+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Not particularly. She has *been* ready for a while.”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718530964640235603",
+      "type": "Default",
+      "timestamp": "2020-06-05T18:25:31.63+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Oh, neat!\" she lightly smiled \" Now, goop, get out of the mun please\"",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718531085524533259",
+      "type": "Default",
+      "timestamp": "2020-06-05T18:26:00.451+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She nodded, and the goop detached itself from her.",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718531399023460473",
+      "type": "Default",
+      "timestamp": "2020-06-05T18:27:15.195+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "radium sucked the goop away \"well, at this rate, it'll be done in no time !\"",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718546207290556416",
+      "type": "Default",
+      "timestamp": "2020-06-05T19:26:05.761+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She waved \"thank you, Rodophis, I'll be of now!\" She started floating away on her rock",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 24
+}

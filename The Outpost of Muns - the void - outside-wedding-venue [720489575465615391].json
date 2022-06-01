@@ -1,0 +1,1593 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "720489575465615391",
+    "type": "GuildTextChat",
+    "categoryId": "688795366799441921",
+    "category": "the void",
+    "name": "outside-wedding-venue",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "720489786707673259",
+      "type": "Default",
+      "timestamp": "2020-06-11T04:09:11.204+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Venor - No. she's.. She doesn't know at this point. - stumbles outside. \"Are you okay?\" She sounds really worried. \"Lamia?\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720490343480557599",
+      "type": "Default",
+      "timestamp": "2020-06-11T04:11:23.949+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*mm?*",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720490529389019160",
+      "type": "Default",
+      "timestamp": "2020-06-11T04:12:08.273+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"This is... weird.\" Venor anxiously taps her hands together. \"Are you alright?\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720490637195083836",
+      "type": "Default",
+      "timestamp": "2020-06-11T04:12:33.976+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*I think?*",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720490930909478912",
+      "type": "Default",
+      "timestamp": "2020-06-11T04:13:44.003+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Do you know-\" *What happened?* Venor switches to just thinking.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720491255473111061",
+      "type": "Default",
+      "timestamp": "2020-06-11T04:15:01.385+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Not really but it's probably the work of a stand*",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720491648949289051",
+      "type": "Default",
+      "timestamp": "2020-06-11T04:16:35.197+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*...Yeah. Should we... go find whichever stand did this?* Venor concentrates and opens two eyes on the palms of her hands.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720492149451522088",
+      "type": "Default",
+      "timestamp": "2020-06-11T04:18:34.526+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Maybe...*",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720492534714859571",
+      "type": "Default",
+      "timestamp": "2020-06-11T04:20:06.38+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Okay, wait.* Venor shakes their.. her legs out. *Let's just... calm down first.* She sounds like she's saying that to herself more than anyone.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720520146225070102",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:09:49.477+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Venor takes a few reassuring breaths and nods. \"Okay. I'm... calmer now.\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720522007862575144",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:17:13.326+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"That's good.\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720522028054085663",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:17:18.14+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "//sorry hdjfndn",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720522075156119552",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:17:29.37+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((you cool \uD83D\uDC4D ))",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720522183935262731",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:17:55.305+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"So.. We should probably work as a team to find this stand.\" Venor takes the initiative again.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720523510362931211",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:23:11.55+00:00",
+      "timestampEdited": "2020-06-11T06:23:15.562+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Have our stands fused?\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720523668110835742",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:23:49.16+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I don't know... Careless Whisper!\" The stand shimmers into view. \"Doesn't look like it. Maybe we have to be more in sync?\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720523902329028639",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:24:45.002+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Try what that ASSHOLE Polaris does and call it 'Careless Whisper: The World'!\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1f7.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1fa.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1e9.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1ea.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE20",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f620.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "696551958433103934",
+            "name": "Gun",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/696551958433103934.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "720524050224382033",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:25:20.263+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((*HM.*",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720524090716323841",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:25:29.917+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Okay.\" Venor desummons her stand. \"Careless Whisper: The World!\" It looks the same.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720525443526295552",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:30:52.452+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lamia was also concentrating. \"it'd be cool if our stands were fused.\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720529177945833522",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:45:42.807+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Again. I think we have to be more in sync.\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720529945645809715",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:48:45.841+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Ok.\" He tried",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720530756698636378",
+      "type": "Default",
+      "timestamp": "2020-06-11T06:51:59.211+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Venor slows her thoughts... and there. Venandi. That's definitely what they're calling themself.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720532886721265674",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:00:27.048+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Venandi?\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720533225667297281",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:01:47.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Damn it Lamia. We were there for a second.\" Venor rolls her eyes. \"Apparently fused us likes to call themself Venandi.\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720534814377377844",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:08:06.637+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Ok, whatever Vegito wants.\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720537048913543168",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:16:59.392+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"V... I feel offended for someone who's not even quite me.\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720537570286501919",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:19:03.697+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lamia chuckles",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720538080288702536",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:21:05.291+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I think... I think they're even more of a bastard than us.\" Venor clutches at the receding feeling of being Venandi. \"How is that even *possible*?!\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720538537765896243",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:22:54.362+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Two bastards combined\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720539070199103488",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:25:01.304+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"You wanna go back to being them? Maybe ultimate bastard can track down whoever fused us.\" Venor grins.\n\nBlack Orchid has been hiding in a bush, listening in to the conversation, and she grins. This should be interesting.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720540561689280532",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:30:56.903+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Sure.\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720540755034112021",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:31:43+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Venor tries to slow down her thoughts again. *Hm.*",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720541396460634123",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:34:15.928+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lamia does the same",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720541692683616326",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:35:26.553+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Venandi is back, and they hope to dear god Lamia doesn't get distracted again. They rather like being around, thank you very much.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720542919492108339",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:40:19.047+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lamia is focused on finding whoever fused him with Venor and kicking their ass",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720543102636392480",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:41:02.712+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Black Orchid makes a rustling sound and freezes. \"Aw fuck.\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720543254046572554",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:41:38.811+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*hmmmm*",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720543598491467828",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:43:00.933+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Venandi tilts their head and bounds over. Very much a bastard.\n\n\"Oi, you asshole better shove off right now.\" Black Orchid yells right back at them.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720543962217185360",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:44:27.652+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Venandi cracks their knuckles. \n*Always wanted to do that!*",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720544329822896128",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:45:55.296+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Black Orchid steps back.\n\nVenandi folds their other pair of arms loosely. \"Who're you?\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720545286191317093",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:49:43.312+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"You better start spitting some answers in the next second.\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720546738137464875",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:55:29.483+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I have no idea what you want to know, you assholes.\" Black Orchid folds her arms in return.\n\n\"Oh really?\" Venandi replies.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720547459973251134",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:58:21.582+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"were you not nosing in on our conversation just now?\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720548787919257620",
+      "type": "Default",
+      "timestamp": "2020-06-11T08:03:38.189+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"...How would you know that?\" Black Orchid suddenly looks shifty.\n\n\"She really isn't hard to read.\" Venandi muses. \"How about you tell us everything now?\" They put their first pair of arms on their knees. \"Or would you like the punching first?\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720549114827505705",
+      "type": "Default",
+      "timestamp": "2020-06-11T08:04:56.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Some sort...of stand fusion begins to manifest",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720549449054814249",
+      "type": "Default",
+      "timestamp": "2020-06-11T08:06:15.816+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Black Orchid loses some of her assholish demeanor. \"What the fuck is that.\"\n\n\"Dunno. Looks like our stands fused as well.\" Venandi fistbumps the stand. \"Not bad.\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720552105856729138",
+      "type": "Default",
+      "timestamp": "2020-06-11T08:16:49.247+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Careless World.\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "720552487748370522",
+      "type": "Default",
+      "timestamp": "2020-06-11T08:18:20.297+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Oh, that is an *excellent* name. *Thank* you, me.\" Venandi grins. \"You wanna try this out, Careless World?\" \n\nBlack Orchid makes a run for it.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721403402537533450",
+      "type": "Default",
+      "timestamp": "2020-06-13T16:39:34.192+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Caeli is flying around here looking for black orchid.",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721445681973428235",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:27:34.395+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Black Orchid is sitting on a tree branch. SHe looks in rough shape.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721445877612281861",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:28:21.039+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He notices her and flies to her. \"Hi there!\"",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721446018201157662",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:28:54.558+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Black Orchid rolls her eyes and flips her off. Rude.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721446251354390549",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:29:50.146+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Caeli is >:/ \"Hey! What did I do to you?\"",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721446507584290930",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:30:51.236+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"You *existed.* Today's been fucking bad enough already. I got sucked into this *stupid dumb as fuck void* and accidentally made a *double bastard* and it's fucking awful.\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721447195790016592",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:33:35.317+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"The void is pretty cool, thank you very much! Your ability is super cool!\"",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721447353726533634",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:34:12.972+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I could do without it, it's fucking stupid, and I hate this fucking stupid ass void.\" Black Orchid kicks her tree branch.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721447707394441309",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:35:37.293+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"How about I show you around so you can see how cool this place is?\"",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721447757193150474",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:35:49.166+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"No. Fuck you.\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721447985770135562",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:36:43.663+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((lmao",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721448053047033857",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:36:59.703+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((pff))",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721448090694844476",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:37:08.679+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ">:( \"what the hell is your deal?! Why are you so rude?!\"",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721448223029461015",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:37:40.23+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Black Orchid glares at him and flips him off again.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721448866976759909",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:40:13.759+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Listen, all I wanna do is to be able to fuse with this one mun I really really like!\"",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "715639641377865818",
+            "name": "powawis",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/715639641377865818.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "721449126931202070",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:41:15.737+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I'm not your fucking fuse stand. Shoo before I fuse you with this tree.\"",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721451339363909672",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:50:03.222+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Alright, fine! Geez, sorry for bothering you.\"",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721451552455393290",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:50:54.027+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Black Orchid throws a ball of light at him. He'll fuse with the next mun who he gets close to.",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690399311564898394",
+            "name": "blur",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690399311564898394.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "721452021516861611",
+      "type": "Default",
+      "timestamp": "2020-06-13T19:52:45.86+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He flies off to find Helio, very pissed off at his perceived failure.",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 68
+}

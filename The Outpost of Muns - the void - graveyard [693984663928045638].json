@@ -1,0 +1,296 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "693984663928045638",
+    "type": "GuildTextChat",
+    "categoryId": "688795366799441921",
+    "category": "the void",
+    "name": "graveyard",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "721565235550355466",
+      "type": "Default",
+      "timestamp": "2020-06-14T03:22:38.189+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fumus was here to bury his nan",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690407334501154836",
+            "name": "aww",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690407334501154836.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "721565341745938433",
+      "type": "Default",
+      "timestamp": "2020-06-14T03:23:03.508+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“**Pannacotta Fugo.**”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721565410046246922",
+      "type": "Default",
+      "timestamp": "2020-06-14T03:23:19.792+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "he looked for the person who uttered his human name",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721565645090586664",
+      "type": "Default",
+      "timestamp": "2020-06-14T03:24:15.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It was a tall figure wearing a hood and an industrial mask- the plasma Aemilius. “My condolences for your loss.”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721566081684078662",
+      "type": "Default",
+      "timestamp": "2020-06-14T03:25:59.923+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Who...are you? How do you know my human?\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721566443040145528",
+      "type": "Default",
+      "timestamp": "2020-06-14T03:27:26.077+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“There’s a lot I know, fumus. I’ve been watching over you for some time.”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721566620170059886",
+      "type": "Default",
+      "timestamp": "2020-06-14T03:28:08.308+00:00",
+      "timestampEdited": "2020-06-14T03:28:11.812+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"What do you want?\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721566819009167480",
+      "type": "Default",
+      "timestamp": "2020-06-14T03:28:55.715+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“I want to help you hone your powers. You want revenge, don’t you?”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721567299739582468",
+      "type": "Default",
+      "timestamp": "2020-06-14T03:30:50.33+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"No...I just want to be alone.\"",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721567678728241224",
+      "type": "Default",
+      "timestamp": "2020-06-14T03:32:20.688+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Well...whenever you’re ready, my offer stands.”",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721567826208620584",
+      "type": "Default",
+      "timestamp": "2020-06-14T03:32:55.85+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Revenge. Such a petty thing. How fucking awful of them to just come barging into my nan's funeral...*",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "721567847343718407",
+      "type": "Default",
+      "timestamp": "2020-06-14T03:33:00.889+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He's crying",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 12
+}

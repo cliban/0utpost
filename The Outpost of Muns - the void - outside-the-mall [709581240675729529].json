@@ -1,0 +1,861 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "709581240675729529",
+    "type": "GuildTextChat",
+    "categoryId": "688795366799441921",
+    "category": "the void",
+    "name": "outside-the-mall",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "709581743400812614",
+      "type": "Default",
+      "timestamp": "2020-05-12T01:44:31.018+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Polaris stepped outside the Olive Garden, taking a deep breath and appreciating the fresh air. For some reason, he sorta itched for a cigarette— must be from his time as Jotaro. Next time he goes down to Earth, he'll try to quit early.",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709581962968301570",
+      "type": "Default",
+      "timestamp": "2020-05-12T01:45:23.367+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "...Jotaro.. when's the next time he'll get a reason to go down to Earth as Jotaro? With this revolution, he's not gonna go out and save anytime soon. He's.. gonna miss it, he thinks.",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709582073584812042",
+      "type": "Default",
+      "timestamp": "2020-05-12T01:45:49.74+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He leans against the wall, letting himself calmly dissociate while watching the clouds.",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690407334501154836",
+            "name": "aww",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690407334501154836.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "709601852873900083",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:04:25.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"...Polaris? You okay out here?\"",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/6c1ac8ee90c8cb33fcabd670665530bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709602236447195186",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:05:56.941+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He’s still just.. chillin against the wall.",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709602794373644322",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:08:09.961+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He doesn't have a cigarette in his hand, at least.\n\"Hey,\"\nHe steps out beside him, back to the wall.\n\"You alright?\"",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/6c1ac8ee90c8cb33fcabd670665530bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709603043855040573",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:09:09.442+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He blinks, loosing his grip that his arms had on the wall and slipping, slidding down the wall and landing awkwardly on his ass.",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709603866219511880",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:12:25.509+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*...what the fuck.*\n\"Polaris?\"\nHe squats down next to him, looking him in the eye.\n\"Hey, you, uh... what's wrong?\"",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/6c1ac8ee90c8cb33fcabd670665530bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709604012197937213",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:13:00.313+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“..I was dissociating.”\nHe.. doesn’t have any other explanation for.. *this.*",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709604619189485630",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:15:25.031+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Mhm. Should I... leave you to it?\"",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/6c1ac8ee90c8cb33fcabd670665530bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709604866607022111",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:16:24.02+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "After a moment of blinking, he shrugs. He kinda.. mentally needs a moment to catch up to reality.",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709605358548680835",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:18:21.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"...I'll just go inside then? Unless you want me to stay here.\"",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/6c1ac8ee90c8cb33fcabd670665530bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709605737034285128",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:19:51.546+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Uh—“ he pauses, still trying to catch himself. “D-do what you want?”",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709606556496429207",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:23:06.921+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"...\"\n*He isn't sure if this is a \"make Polaris open up to people\" situation or a \"leave Polaris alone for a little bit\" situation.*\n\"...Do you want me to bring your pasta out here for you?\"",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/6c1ac8ee90c8cb33fcabd670665530bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709606769156161567",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:23:57.623+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Is.. Is that even legal? Have I paid for it yet?”\n*I’m pretty sure I haven’t paid for it yet. I should go back and do that...*\nHe gets ready to stand up.",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709606965134753824",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:24:44.348+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Hey, it's fine,\"\nHe waves him off.\n\"If you want to sit here that's fine. I'll pay.\"",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/6c1ac8ee90c8cb33fcabd670665530bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709607335630471178",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:26:12.681+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Nah, I’ll pay. My food, my payment,” he stands up, placind his hand up in front of him, palm facing Malachite. \n*I think my mind is just on what Cerise said... who’s this ‘Nexum’ girl?*",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709607713897971762",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:27:42.867+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He stands as well, cocking his head. \n\"You sure? I don't mind paying for some pasta.\"",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/6c1ac8ee90c8cb33fcabd670665530bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709608184368726037",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:29:35.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Why do you keep insisting you pay for me?” he asks, narrowing his eyes at Malachite, confused.",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709608319224119348",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:30:07.188+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I'm being a gentleman. It's chivalrous.\"",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/6c1ac8ee90c8cb33fcabd670665530bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709608424849145918",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:30:32.371+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“...I have more money than you.”",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709608624321724416",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:31:19.929+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"...It's the thought that counts. I like doing it.\"",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/6c1ac8ee90c8cb33fcabd670665530bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709608836453105787",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:32:10.505+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He turns around, heading inside. “Pay for me when you decide to stop spending half your salary on video games and chips.”",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709609306995163196",
+      "type": "Default",
+      "timestamp": "2020-05-12T03:34:02.691+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Wh- I like those things too.\"\nHe follows after him, trying to keep himself as inconspicuous as possible.",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/6c1ac8ee90c8cb33fcabd670665530bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709964747319017515",
+      "type": "Default",
+      "timestamp": "2020-05-13T03:06:26.268+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cerise is chilling here, tail flicking a bit. She rolls up one of the sleeves of her shirt and traces the scars on her arms to distract herself.",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709965122302509097",
+      "type": "Default",
+      "timestamp": "2020-05-13T03:07:55.671+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Polaris steps outside, making sure to make his steps a little louder so she isn’t startled when he settles against the wall next to her.",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709965282537504799",
+      "type": "Default",
+      "timestamp": "2020-05-13T03:08:33.874+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She looks up and rolls the sleeve back down \"Hi...\"",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709965603905208411",
+      "type": "Default",
+      "timestamp": "2020-05-13T03:09:50.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“You don’t have to hide your scars, at least not from me,” he offers up, pointing at his own faces scars before settling his hands down back into his pants pockets. “Everything alright?”",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709966686962319430",
+      "type": "Default",
+      "timestamp": "2020-05-13T03:14:08.715+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She sighed \"No....Im kinda upset Malachite is tipsy....I...really look up to him....Even if we arent related in the void...I wanted you and him to join me and my fiancees when I try dresses on....But....now hes tipsy....so...his opinion on which dress might be skewed...\" She looked down \"Its...Its a stupid thing...But...Kakyoin in almost every timeline always got me out of the depression I was in as Cherry....even if it was never Malachite.....having his opinion still means alot to me....\"",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709967259904507925",
+      "type": "Default",
+      "timestamp": "2020-05-13T03:16:25.315+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“...”\nHe.. didn’t know how to respond to that. It’s easy to forget that the two are related, seeing as Malachite and Cerise don’t interact much. Either way, he has to do something.\n“Sometimes, when people are tipsy, they’re a lot more honest than usual. As long as he doesn’t get too shit-faced, we can probably still take him to check out dresses with you while still being hyper honest,” he says with a quick shrug. “Besides, he’d probably think anything looked good on you, anyways.”",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709968510708744303",
+      "type": "Default",
+      "timestamp": "2020-05-13T03:21:23.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She looked up at him again \"Alright....and...thanks...Im...honestly kinda nervous...I never really thought I would be getting married..\" She chuckled \"Hm do you think Malachite would agree to being a 'bridesmaid'?\"",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFE",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1fe.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1ea.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1f8.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f60a.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "709968757585477732",
+      "type": "Default",
+      "timestamp": "2020-05-13T03:22:22.39+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He shrugs. “Dunno exactly how he feels about gender stuff. Guess you’ll have to ask him yourself.”",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709969669263589496",
+      "type": "Default",
+      "timestamp": "2020-05-13T03:25:59.751+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She smiled a bit \"Alright I'll have to ask him then. Thanks for coming outside to talk to me...It helped. Youre a good friend dude.\" She stood up from her kinda crouched position \"Lets go back in\"",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709969865435250688",
+      "type": "Default",
+      "timestamp": "2020-05-13T03:26:46.522+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He hums, nodding his head and holding the door open for her.",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709970163977420870",
+      "type": "Default",
+      "timestamp": "2020-05-13T03:27:57.7+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She smiled at him and walked back in",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "709970497848213555",
+      "type": "Default",
+      "timestamp": "2020-05-13T03:29:17.301+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He follows in after her.",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 36
+}

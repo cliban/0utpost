@@ -1,0 +1,884 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "691155675832647693",
+    "type": "GuildTextChat",
+    "categoryId": "688795366799441921",
+    "category": "the void",
+    "name": "dumpster",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "691156801093369887",
+      "type": "Default",
+      "timestamp": "2020-03-22T05:30:22.453+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She gets here, to her empty house. And just collapses onto her couch",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691157013391998977",
+      "type": "Default",
+      "timestamp": "2020-03-22T05:31:13.069+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She lets everything out and starts sobbing hard",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691157328321445898",
+      "type": "Default",
+      "timestamp": "2020-03-22T05:32:28.154+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A crack appears but its mostly hidden. Its above her heart",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690348381826318417",
+            "name": "nooooo",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690348381826318417.png"
+          },
+          "count": 6
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "691158430026563625",
+      "type": "Default",
+      "timestamp": "2020-03-22T05:36:50.821+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She starts sobbing even more, curling in on herself",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691158957942767666",
+      "type": "Default",
+      "timestamp": "2020-03-22T05:38:56.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Shes alone again. Just like she was before dhe met everyone",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "646223457863860224",
+            "name": "WAAAAAAAAAAAAAAAAA",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/646223457863860224.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "691159265364410379",
+      "type": "Default",
+      "timestamp": "2020-03-22T05:40:09.981+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She hated it so much. She shouldnt of gotten attached. Shes a scout. Shes hardly important in the Plasmas eyes. Was she foolish to think the others saw her as important?",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691161635498491946",
+      "type": "Default",
+      "timestamp": "2020-03-22T05:49:35.065+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Of course she was. Shale wasnt coming back. She left. Left her all alone again. She was foolish to fall in love. She was foolish to thing she could become something.",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "646223457863860224",
+            "name": "WAAAAAAAAAAAAAAAAA",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/646223457863860224.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "691162322886066228",
+      "type": "Default",
+      "timestamp": "2020-03-22T05:52:18.951+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She eventually cries herself to sleep but immediately wakes up. The crash played again. And now shes completely alone with no one to comfort her",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "646223457863860224",
+            "name": "WAAAAAAAAAAAAAAAAA",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/646223457863860224.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "691163239672709171",
+      "type": "Default",
+      "timestamp": "2020-03-22T05:55:57.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Shes not going to be able to sleep",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691169011186270209",
+      "type": "Default",
+      "timestamp": "2020-03-22T06:18:53.566+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She gets up and drags herself out. Shes going to hide in the human world too. Its better then being all alone",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "725893655138926685",
+      "type": "Default",
+      "timestamp": "2020-06-26T02:02:13.837+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(Tine to repurpose this)",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "725893760051052585",
+      "type": "Default",
+      "timestamp": "2020-06-26T02:02:38.85+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "-------------------------",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "725893969770184784",
+      "type": "Default",
+      "timestamp": "2020-06-26T02:03:28.851+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(nice)",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "725894305851637841",
+      "type": "Default",
+      "timestamp": "2020-06-26T02:04:48.979+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Quisqui was at her... well what you can call house, A bunch of metal parts making a thing for shade, and shelter from the rain. A new cargo of trash from the restaurants arrived \n\"Today, I'll eat like i the people who live in houses\"",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726227305411903488",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:08:02.261+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Moona \n\nMomo wanderes here, looking around. What was this place?? It was so interesting",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "476884063064555521",
+          "name": "Moona",
+          "discriminator": "0001",
+          "nickname": "Moona",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "726227778625863762",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:09:55.084+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there are sounds coming from a broken car \"HOLY FRICK THIS CAR STILL HAS THE OIL\" she says putting the oil in a bucket",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726227908636704830",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:10:26.081+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She blinked and walked over \"What are you doing????\"",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726228456987165070",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:12:36.818+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She holds a pipe as a sword \"WHAT THE HECK YOU DOIN IN ME HOME\"",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726228707542564955",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:13:36.555+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"This is your home???? Doesnt seem like a good home.....\" She blinked",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726228887809425408",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:14:19.534+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Oi. Don diss me home yer bastard, I lived 'ere eversince i know meself as a mun\"",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726229201400627242",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:15:34.3+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Huh.....\" She was confused by that",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726229492443643994",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:16:43.69+00:00",
+      "timestampEdited": "2020-06-27T00:16:46.602+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"What ye lookin at?\" she looks at the restaurant trash \"YE NOT HERE TO TAKE MY FOOD ARE YOU\"",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726229789504962570",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:17:54.515+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"No....I dont need that....Uh...I...Uh...\" She doesn't know what to do and simply lets Meriad have control again. She stumbled back, confused",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726229971663847434",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:18:37.945+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"THEN LEAVE ME HOME I GOT TO EAT SOON. Plus. the coons come at night to eat the food so i don wanna have to fight em again\"",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726230791264141387",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:21:53.353+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Little one....Why do you live....in a dumpster...Do you need food? I know someone who can help...shes very kind..\" Motherly mode actived",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726231134198956072",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:23:15.115+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I don need any help.... I do accept some food, i don't like the pineapple pizza\"",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726231290801815604",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:23:52.452+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I can get you better and fresh food...\" She offered her hand out \"Come...\"",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726231903530909756",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:26:18.538+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"K but am takin me sword\" she takes a exhaust pipe that she sharpened",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726232048821600366",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:26:53.178+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She nodded and gently lifted her up, holding her and starting to walk",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726232285711564890",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:27:49.657+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "her hair is going on the floor \"Where we be goin???\" she looks at a raccoon and hisses",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726232576431226941",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:28:58.97+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"The temple where my girlfriend lives! Shes very kind. Theres other kids currently staying there too!!!\" She hummed",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726232700309995520",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:29:28.505+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"WHAT. A TEMPLE??? LIKE\" she remembers the magazines she learned how to read \"LIKE ONE OF THOSE WHERE WHERE PEOPLE SUMMON STUFF?!?!\"",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726232851263258635",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:30:04.495+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She yelped at the sudden loudness \"Not so loud please......\"",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726233023460147272",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:30:45.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Oh. Sorry...\" she whispers the same thing as before",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726233166955937793",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:31:19.762+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Its ok...you just startled me. Im Meriad.\" She smiled",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726233432673484923",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:32:23.114+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Uhm... I'm trash!\" she says smiling showing her broken tooth \"Well. Quis, But everyone calls me trash\"",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726233705672343623",
+      "type": "Default",
+      "timestamp": "2020-06-27T00:33:28.202+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Nice to meet you Quis.\" She smiled as she walked back to #main-chamber",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 37
+}
