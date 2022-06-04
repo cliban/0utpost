@@ -1,0 +1,196 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "716813897553805363",
+    "type": "GuildTextChat",
+    "categoryId": "731316013437550704",
+    "category": "Houses",
+    "name": "iuvenis-veteris-house",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "716817064333148210",
+      "type": "Default",
+      "timestamp": "2020-06-01T00:55:05.954+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Iuvenis was finishing eating the small pizza he ordered......the place practically knew him by now, the tv droning on in the background, he decided to something....a habit of his......standing by the door, waiting, for Veteris to return.....almost like a dog waiting for their owner.....how many years has it been? 3,000,000.....4,000,000 maybe? He lost track since his 5th missed birthday....though...maybe today...he’ll come home.......but, that was the case for yesterday, and the day before, and the day before that......he’s starting to forget what he looks like....the only remedy being that family picture, when everything was okay.....and Dad.....Iuvenis felt a tear drop down as he sat.\n\nHe wanted a pet....maybe it’d be less lonely around here then..",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690407334501154836",
+            "name": "aww",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690407334501154836.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "716823721867870209",
+      "type": "Default",
+      "timestamp": "2020-06-01T01:21:33.234+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A knock on the door sends him flying to open it, “Big Brothe-“ “**Huh??**”\nIt was Anguis, she always checked up on him from time to time, “**Hey little buddy....**” she squats down to the now droopy eared Iuvenis, “**Still waitin huh?**”\nHe nods, “**Well guess I’ll just have to wait with ya!**” the green mun plops herself down next to him, closing the door with her foot, “Ann....” “**Hmm?**” “D-Did I do s-s-something to m-make Veteris n-n-not wanna co-come b-back?” Anguis tensed up, *did he? You swear to god if he.....no, he loved his brother....if he did you would beat his ass to the next millennia....* “**Pfft no way! Right chomps?**” the snake tail blepped in agreement, and finding comfort in this...Iuvenis yawned, and dozed off against her shoulder.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690407334501154836",
+            "name": "aww",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690407334501154836.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "719026242652733480",
+      "type": "Default",
+      "timestamp": "2020-06-07T03:13:35.11+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Theres a twinkling sound as Dulci lands on the ground and knocks on the door \"Iuvenis? Its Dulci!\" She called out, tail swaying a bit",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "719028505240928276",
+      "type": "Default",
+      "timestamp": "2020-06-07T03:22:34.553+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A scurrying  commotion can be heard behind the door, soon after it opens to Iuvenis, wearing a white long sleeved shirt ,a purple ribbon tying around the collar,  his goggles covering his eyes,\nHe shyly waves.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "719029286627180566",
+      "type": "Default",
+      "timestamp": "2020-06-07T03:25:40.85+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She smiled \"Are you ready?\" She bends down so he can get on her back",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "719029503396937769",
+      "type": "Default",
+      "timestamp": "2020-06-07T03:26:32.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He gives a meek nod and climbs onto her bad, clutching tightly.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "719029909980315719",
+      "type": "Default",
+      "timestamp": "2020-06-07T03:28:09.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She opened her fairy wings and began to fly. \"Im really glad Aion has someone to hang out with her age. She always seems really happy around you!\" She hummed",
+      "author": {
+        "id": "276805103447441409",
+        "name": "Pastel warrior of hope!!!",
+        "discriminator": "7725",
+        "nickname": "Heliotrope | Dulci | Vega",
+        "color": "#F8BCD0",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276805103447441409/39e10540e5d2815ac19bc3001a4f6104.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 7
+}
