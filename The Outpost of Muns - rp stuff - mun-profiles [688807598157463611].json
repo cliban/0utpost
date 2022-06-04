@@ -1,0 +1,1194 @@
+{
+  "guild": {
+    "id": "667167099063500811",
+    "name": "The Outpost of Muns",
+    "iconUrl": "https://cdn.discordapp.com/icons/667167099063500811/f6d9c36262791c48476d5896402d452f.png"
+  },
+  "channel": {
+    "id": "688807598157463611",
+    "type": "GuildTextChat",
+    "categoryId": "688795255902175398",
+    "category": "rp stuff",
+    "name": "mun-profiles",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "688827863038034032",
+      "type": "Default",
+      "timestamp": "2020-03-15T19:16:00.351+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**BASE**\nName:\nHuman Name:\nAge: \nHuman Age:\nDefining Characteristic:\nPersonality:\nSpecial Power:",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688829423272984660",
+      "type": "Default",
+      "timestamp": "2020-03-15T19:22:12.34+00:00",
+      "timestampEdited": "2020-03-15T19:44:55.665+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Wanderer\nHuman Name: Jocelyn “Joss” Joestar/||Elizabeth Joestar||\nAge: 900,000\nHuman Age: 9\nDefining Characteristic: Shield-tipped tail, looks like she has a fire inside her at all times\nPersonality: Usually sweet and kind, but jumpy and unwilling to accept her fate. \nSpecial Power: Can absorb items into her plasma form to sustain herself, after which they linger on her limbs for a while",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688836211195772993",
+      "type": "Default",
+      "timestamp": "2020-03-15T19:49:10.707+00:00",
+      "timestampEdited": "2020-03-20T14:00:32.937+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Malachite \nHuman Name: Kakyoin Noriaki\nAge: about 1,700,000\nHuman Age: 17\nDefining Characteristic: flowing hair, has a gem-tipped tail\nPersonality: ~~ruthless bastard~~ polite, open-minded, blunt at times, he is pretty distant and keeps most relationships at an arms length, only actually getting close to a few people (Polaris), he likes teasing people\nSpecial Power: tentacles \uD83D\uDC19\uD83D\uDC19\uD83D\uDC19",
+      "author": {
+        "id": "458253435523956747",
+        "name": "dirt.eater",
+        "discriminator": "8628",
+        "nickname": "dirt.eater",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458253435523956747/6c1ac8ee90c8cb33fcabd670665530bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688872198533808199",
+      "type": "Default",
+      "timestamp": "2020-03-15T22:12:10.757+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: freila\nHuman Name:Trish Una\nAge: 1,400,000\nHuman Age:15\nDefining Characteristic:Green gem at the end of her tail, Glowing hair \nPersonality:Shes somewhat peppy, and has a high taste. She is a very determined individual with the people that she trusts.\nSpecial Power:anything she touches turns soft, making it somewhat indestructible.  Where ever she walks turns soft and squishy due to this.",
+      "author": {
+        "id": "491518640059973634",
+        "name": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "discriminator": "0811",
+        "nickname": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491518640059973634/48592ca3e2e12bb9b718369c75f906a0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688877212929359899",
+      "type": "Default",
+      "timestamp": "2020-03-15T22:32:06.282+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Name:** Polaris\n**Human Name:** Jotaro Kujo\n**Age:** 1,700,000\n**Human Age:** 17\n**Defining Characteristic:** glowing freckles, glowing eyes, tail flows like a galaxy, ripped end of beanie floats like ashes\n**Personality:** pretty shy and reserved, though its mostly out of protection. with those they love, they'll be really touchy feely with (never in public unless the lack of affection is just *that strong*). out of everyone you meet, Polaris is one you can trust to keep a secret until their death.\n**Special Power:** being a Savior, Polaris is able to mess with time and space a bit. they can create portals to anywhere/anytime they know of, but they can only do it once every once in a while because of just how much energy it zaps from them",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688881425356947566",
+      "type": "Default",
+      "timestamp": "2020-03-15T22:48:50.603+00:00",
+      "timestampEdited": "2020-03-18T02:00:05.81+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name:Glorioso\nHuman Name:luminoso Panettone Fastidiosa\nAge: 1,700,000\nHuman Age:24\nDefining Characteristic:The palms of his hands glow, a really thin tail, and only parts of his eyes glow.\nPersonality:Extremely zealous and active, due to the fact he doesnt have any sense of personal space. He can be somewhat sensible but it doesnt happen that much. He can be somewhat aggressive when people that hes close to or trusts gets threatened. Hes very much chaotic but he can pull his own weight.\nSpecial Power:He can teleport anywhere he wants to in the world. But only in the current time. The further the distance the more energy it takes from him. So he really only uses it to catch up to people or to travel to another state in a short distance.",
+      "author": {
+        "id": "491518640059973634",
+        "name": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "discriminator": "0811",
+        "nickname": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491518640059973634/48592ca3e2e12bb9b718369c75f906a0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688908089453445405",
+      "type": "Default",
+      "timestamp": "2020-03-16T00:34:47.819+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Caeli\nHuman Name: Narancia\nAge: 1,000,000\nHuman Age: 17\nDefining Characteristic: he has feathers on his arms\nPersonality: he's a playful prankster. He's a bit rude and not very uptight, but his heart is in the right place. \nSpecial Power: he can fly",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688950878677499962",
+      "type": "Default",
+      "timestamp": "2020-03-16T03:24:49.565+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Shale\nHuman Name: Jolyne\nAge: 1, 600, 000\nHuman Age: 19\nDefining Characteristic: There are always strings wrapped around her fingers, she has a butterfly at the end of her tail and on her wrist\nPersonality: Cheeky and confident, a good leader and older sister.\nSpecial Power: Her tail can split into separate sections and extend to grab things/swing from",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688960021480079396",
+      "type": "Default",
+      "timestamp": "2020-03-16T04:01:09.379+00:00",
+      "timestampEdited": "2020-04-02T16:26:14.121+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Argenti \nHuman name: Jean Pierre Polnareff\nAge: 2,100,000\nHuman age: 22\nDefining characteristics: Tall hair, metal arms and legs, has a rapier\nPersonality: Kind hearted, thirsty for justice, hopeless romantic, not the brightest, picky \nSpecial power: He can move at nearly the speed of light and is excellent with a sword",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688974474108076087",
+      "type": "Default",
+      "timestamp": "2020-03-16T04:58:35.154+00:00",
+      "timestampEdited": "2020-04-02T16:26:28.361+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Akosua \nHuman name: Maria Tyler\nAge: 1,875,000\nHuman age: 19\nDefining characteristics: Very colorful. \nPersonality: Naive, easily excitable, has abandonment issues, doesn't know limits, has no filter, wants the best for everyone \nSpecial power: She can concentrate light and energy into her very being",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1ef.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1ea.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1f3.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFE",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1fe.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "688974681105104937",
+      "type": "Default",
+      "timestamp": "2020-03-16T04:59:24.506+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**S H E B A B Y**",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688974778505494540",
+      "type": "Default",
+      "timestamp": "2020-03-16T04:59:47.728+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Jeny?",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688974797652361239",
+      "type": "Default",
+      "timestamp": "2020-03-16T04:59:52.293+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "jenny",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688974858968629250",
+      "type": "Default",
+      "timestamp": "2020-03-16T05:00:06.912+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What that mean",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688974909174841361",
+      "type": "Default",
+      "timestamp": "2020-03-16T05:00:18.882+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "....I think it’s the age you put",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688974940065890433",
+      "type": "Default",
+      "timestamp": "2020-03-16T05:00:26.247+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Took me a second to get it",
+      "author": {
+        "id": "380883418197524480",
+        "name": "Gekitoutsu Rispba",
+        "discriminator": "8038",
+        "nickname": "\uD83D\uDEE1Aion | \uD83D\uDDE1 Parcival | \uD83D\uDC60 Rodophis",
+        "color": "#992D22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380883418197524480/c28598cacc30fbd92be47bfd3b7a0871.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688975025713184828",
+      "type": "Default",
+      "timestamp": "2020-03-16T05:00:46.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh yeah lol",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688975094671867929",
+      "type": "Default",
+      "timestamp": "2020-03-16T05:01:03.108+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've been listening to 1980s pop for the past half hour",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "688975110253707336",
+      "type": "Default",
+      "timestamp": "2020-03-16T05:01:06.823+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A good use of time",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "689678931162562588",
+      "type": "Default",
+      "timestamp": "2020-03-18T03:37:50.804+00:00",
+      "timestampEdited": "2020-03-24T03:09:23.949+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Seriya??\nHuman Name:Muhammad Avdol\nAge: 2,300,000\nHuman Age:25\nDefining Characteristic:Eyes that look like they’re on fire, inside of mouth also looks like its on fire, and a small amount of feathers on his back\nPersonality:Extremely responsible, Usually the moral compass. He’s extremely loyal, to the point of dying for his comrades. He is very calming to be around aswell.\nSpecial Power:He can bend fire at his will. Though it takes up more and more energy the bigger the fire is.",
+      "author": {
+        "id": "491518640059973634",
+        "name": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "discriminator": "0811",
+        "nickname": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491518640059973634/48592ca3e2e12bb9b718369c75f906a0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f525.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC14",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f414.svg"
+          },
+          "count": 6
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "689679046455328794",
+      "type": "Default",
+      "timestamp": "2020-03-18T03:38:18.292+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "EYYYYYYYYY",
+      "author": {
+        "id": "242126810815397898",
+        "name": "citruslllad",
+        "discriminator": "2605",
+        "nickname": "citruslllad",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242126810815397898/5b44f1214241a8d05bc48a046f40d9d7.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "689679182309097495",
+      "type": "Default",
+      "timestamp": "2020-03-18T03:38:50.682+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "OH FUCK",
+      "author": {
+        "id": "491518640059973634",
+        "name": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "discriminator": "0811",
+        "nickname": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491518640059973634/48592ca3e2e12bb9b718369c75f906a0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "689679245085376533",
+      "type": "Default",
+      "timestamp": "2020-03-18T03:39:05.649+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HE",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "689679245781631001",
+      "type": "Default",
+      "timestamp": "2020-03-18T03:39:05.815+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what's his name?",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "689679284562165788",
+      "type": "Default",
+      "timestamp": "2020-03-18T03:39:15.061+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "his name is",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "689679309119684608",
+      "type": "Default",
+      "timestamp": "2020-03-18T03:39:20.916+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** **",
+      "author": {
+        "id": "288832526980743168",
+        "name": "Iris",
+        "discriminator": "7573",
+        "nickname": "Iris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288832526980743168/8f5229ad6b155d269859e317a4a4edda.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "689679344334798938",
+      "type": "Default",
+      "timestamp": "2020-03-18T03:39:29.312+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I FORGOY TO PUT SOMETHING THERE",
+      "author": {
+        "id": "491518640059973634",
+        "name": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "discriminator": "0811",
+        "nickname": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491518640059973634/48592ca3e2e12bb9b718369c75f906a0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "689679382348169304",
+      "type": "Default",
+      "timestamp": "2020-03-18T03:39:38.375+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ignis?",
+      "author": {
+        "id": "647570090694279215",
+        "name": "Bunnie",
+        "discriminator": "7041",
+        "nickname": "Albus | Caeli | Solus",
+        "color": "#E67E22",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647570090694279215/644f4ef039dc3efd8907f740da5e8d93.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "689679530385866839",
+      "type": "Default",
+      "timestamp": "2020-03-18T03:40:13.67+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WELL ITS SERIYA I GUESS",
+      "author": {
+        "id": "491518640059973634",
+        "name": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "discriminator": "0811",
+        "nickname": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491518640059973634/48592ca3e2e12bb9b718369c75f906a0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "690693385752936570",
+      "type": "Default",
+      "timestamp": "2020-03-20T22:48:55.626+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Venor\nHuman Name: Bella Ignes Kishibe\nAge: 1 500 000\nHuman Age: 17\nDefining Characteristic: Hair is always floating around, she has many eyes in her hair, she has white crack patterns all over her skin, and her tail loops around \nPersonality: Dramatic around her friends, incredibly frightened anywhere else. She never admits shes scared. Or happy. Or anything else, for that matter.\nSpecial Power: Her words can hypnotize people. Literally. She speaks and it looks like she has smoke coming out of her mouth. That hypnotized people. She can turn that off and on",
+      "author": {
+        "id": "306621601854652430",
+        "name": "CliBan",
+        "discriminator": "6866",
+        "nickname": "\uD83D\uDD2AShale\uD83E\uDD8B|\uD83D\uDC41Venor\uD83E\uDD40",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306621601854652430/b94a95aaef65dc6e8bca24dd18a7773d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691377933251510363",
+      "type": "Default",
+      "timestamp": "2020-03-22T20:09:04.468+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Tourmaline \nHuman Name: Bruno Bucciarati \nAge: 1,900,000\nHuman Age: 20\nDefining Characteristic: Eyes that look like the deepest pits of the ocean, as well as markings on their chest that don’t look like they belong on ones skin, almost like closed portals. Their shoulders also seem to be like they are connected by similar forces to that of a zipper. \nPersonality: They’re a compassionate figure with the willpower to defend those that they care deeply for. That being said, they are also deeply loyal to those that they have known and care for to the point of fighting anyone who tries to lay a finger on them. Yet, they also have the courage to go up against those who they view as immoral based on their actions prior. Yet they also seem to make weird analogies at times as well as slightly confusing actions.\nSpecial Power: The ability to open up zipper like openings or conjure zippers on objects.",
+      "author": {
+        "id": "264767092602044416",
+        "name": "mess",
+        "discriminator": "0169",
+        "nickname": "mess",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264767092602044416/4c2fe1666c20b3a9c74ce7eb8571406e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691454930644631704",
+      "type": "Default",
+      "timestamp": "2020-03-23T01:15:02.077+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Name: **Ombrage\n**Human Name: **Violette Midnight\n**Age:** 1 700 000\n**Human Age:** 17\n**Defining Characteristic: **Long and Flowy Shadow-like hair, glowing yellow markings (like stars in the night), end of tail like their the hair.\n**Personality:** They are very shy and reserved, having a hard time opening up to anyone. They are very emotional and sensible, and tend to get anxious or scared easly. They tend be a coward, and prefer to protect rather than attack. They care deeply about the ones they're close with, and will try their best to help them in hard times.\n**Special Power: **They can use their hair to turn into a shadow.",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691485398970531850",
+      "type": "Default",
+      "timestamp": "2020-03-23T03:16:06.292+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Alamani \nHuman Name: Reimi Sugimoto \nAge: 1,700,000\nHuman Age: 17 \nDefining Characteristic: Soft pink hair that seems to be littered with a golden glow being accompanied by what seems like a halo and deep markings on their back that resemble jagged lines that shine with a bright light depending on her emotions. She also seems to have a glowing light that consistently surrounds her neck. While her eyes hold a firm almost knowing glow to them.\nPersonality: She is generally an amiable woman that is always grateful to be in the company of other people. She also has a deep love for dogs and other creatures going out of their way to pet any dogs they see as long as they accept it. That being said she can also be very firm and harsh towards those that have harmed her or her friends not caring if their strength is greater than hers. She may or may not also have a grudge towards the artist David Bowie. \nSpecial Power: The ability to bring forth what has happened in ones past if they’ve died in a past life or experienced a near death experience.",
+      "author": {
+        "id": "264767092602044416",
+        "name": "mess",
+        "discriminator": "0169",
+        "nickname": "mess",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/264767092602044416/4c2fe1666c20b3a9c74ce7eb8571406e.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "691847623937622016",
+      "type": "Default",
+      "timestamp": "2020-03-24T03:15:27.454+00:00",
+      "timestampEdited": "2020-03-24T03:20:20.692+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name:Vern\nHuman Name:Porchetta\nAge: 1,400,000\nHuman Age:16\nDefining Characteristic: Constantly floating hair, hair containing what looks like tons of stars and streaks, shimmering blue scales on their shoulders and around their neck, and a tail splitting at the end.\nPersonality:They usually Lock down most of their emotions, only showing mild emotions. Despite that they really care for everyone around them. They’re very polite to people older than them & are usually formal. They can get mildly enraged if they do catch someone lying. They dont warm up to people until a very long time. They dont show active fear to the ones they’re scared of.\nSpecial Power:If they touch someone, they can tell if they’re lying no matter what. Even if the person thinks its the truth it will still come out as a lie to them. They can create weapons out of the lies if they can collect enough.",
+      "author": {
+        "id": "491518640059973634",
+        "name": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "discriminator": "0811",
+        "nickname": "\uD83D\uDCABPringles\uD83C\uDF19",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491518640059973634/48592ca3e2e12bb9b718369c75f906a0.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "692195518746722304",
+      "type": "Default",
+      "timestamp": "2020-03-25T02:17:52.04+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Anguis \nHuman Name: Cadence Rudd\nAge: 1,900,000\nHuman Age: 17\nDefining Characteristic: a looong braid, slit eyes, and **snake tail** (the tail is literally a snake.) (she named it chomps.)\nPersonality: just like her human counterpart, is known as a delinquent among the muns, sometimes oblivious, but still good intentioned.\nSpecial Power: she can turn any part of her body into an extremely corrosive liquid, the parts can reform.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "692859320857002064",
+      "type": "Default",
+      "timestamp": "2020-03-26T22:15:34.796+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Solum\nHuman Name: Tenshi \nAge: 1,800,000\nHuman Age: 18\nDefining Characteristic: cracked, porcelain like skin, a broken halo, pure white eyes. \nPersonality: quiet, always has a smile on his face, though never genuine, has very little self respect. Probably internally crying, \nSpecial Power: can levitate himself,",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "693650572527534081",
+      "type": "Default",
+      "timestamp": "2020-03-29T02:39:43.895+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Quartz \nHuman Name: Shizuka Joestar\nAge: 1,600, 000\nHuman Age: 16\nDefining Characteristic: Quartz like crystals on the tip of her tail, a star mark on her lower right side. \nPersonality: She's a very energic person, and she's also a trickster. She gets bored easly and tend to fight to quit her boredom. She like causing chaos and watching it from afar. She like to spy on people and flirt. \nSpecial Power: She can turn invisible.",
+      "author": {
+        "id": "392013055224971265",
+        "name": "Radioactive Lain",
+        "discriminator": "4024",
+        "nickname": "Mnaderstark The First",
+        "color": "#F777F1",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392013055224971265/3cbe36e0b80cd8c5009fedd7ff1f417d.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "695784765370007582",
+      "type": "Default",
+      "timestamp": "2020-04-04T00:00:15.12+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Iuvenis \nHuman Name: Hoshi Aohoshi \nAge: 900,000\nHuman Age: 9\nDefining Characteristic: stripped skin, and a glowing star on his tail\nPersonality: he’s selectively mute, only talking to those he feels safe around, though when he does, he’s extremely bubbly and energetic. When around strangers, he’s creepily silent, and observant\nSpecial Power: he can erase memories and create fabricated ones, though the fake memories can be seen through, and the original memories aren’t entirely destroyed.",
+      "author": {
+        "id": "476031767791403009",
+        "name": "◎☆E☆◎",
+        "discriminator": "8871",
+        "nickname": "\uD83D\uDD2E~Lolite~|\uD83D\uDC7C~Solum~|⭐~Iuvenis~",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476031767791403009/e9f14fe464f6150fc2ad7c655b7884cc.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "708762573167656993",
+      "type": "Default",
+      "timestamp": "2020-05-09T19:29:25.615+00:00",
+      "timestampEdited": "2020-06-16T09:14:10.114+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Spectra\nHuman Name: Deaco Nageki\nAge: 1753900\nHuman Age: 17 \nDefining Characteristic: Sharp green eyes, she has a set of three horns on the left side of her head/face, constatly wearing a sweater, has a *long* ponytail that often fools people into thinking she has more than one tail. \nPersonality: A recluse, but unwaveringly kind and understanding. She seems to not be able to figure people out that well, although she hardly talks to people which may contribute to the problem.\nSpecial Power: Able to warp small amounts of space, accessing the 'code' of the space and being able to rewrite it.",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "710229600831143956",
+      "type": "Default",
+      "timestamp": "2020-05-13T20:38:52.266+00:00",
+      "timestampEdited": "2020-05-14T16:02:18.57+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Midnight\nHuman Name: Chikikuo Yonaka \nAge: 1800069\nHuman Age: 18\nDefining Characteristic: Short (for a mun) and kind of frail looking, often wears extremely long coats. Has noticeable green lines running through her eyes, resembling scars. \nPersonality: A rash and kind of  reckless girl, she puts herself into danger without a second thought. However, she's actually quite introverted and nervous around people. \nSpecial Power: She can ignore the laws of physics entirely if she feels like it. That's it thats the power. Might have a stand I need to work on that.",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690407334501154836",
+            "name": "aww",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690407334501154836.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC96",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f496.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "713124327200915487",
+      "type": "Default",
+      "timestamp": "2020-05-21T20:21:28.814+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(I'll be honest, I had to cut some things from his personality to make him work.)\nName: Memphis (I have nothing better.) \nHuman Name: Karui Yonaka\nAge: 1820000\nHuman Age: 18\nDefining Characteristic: Crystalline appearance, lacks a mouth. \nPersonality: Introverted and kind of creepy, he seems to be oddly obsessed with the dark and shadows. \nSpecial Power: Manipulation of shadows and can change their form at will using this - often masquerades as Midnight, although the lack of a mouth still remains.",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "713496433772199978",
+      "type": "Default",
+      "timestamp": "2020-05-22T21:00:05.934+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Reverie\nHuman Name: Nobuyuki Darquesse \nAge:  1800002\nHuman Age: 18\nDefining Characteristic: One of his eyes is permanently closed and leaking a lot of colourful goop seemingly constantly. \nPersonality: Shy and kind of anxious around new people, Reverie prefers small groups rather than large crowds. He tries his best with things, but is often crushed under regret after doing something. \nSpecial Power: Necromancy. Might as well keep that consistent.",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "690407334501154836",
+            "name": "aww",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/690407334501154836.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC96",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f496.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "715247977043591178",
+      "type": "Default",
+      "timestamp": "2020-05-27T17:00:06.392+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Lunara\nHuman Name: Luna Nevermind\nAge:  2600009\nHuman Age: 26\nDefining Characteristic: A huge gash in her abdomen that never seems to heal\nPersonality: Ultra Low temperament towards saviors, acceptance towards scouts and reapers. She has a bad habit of trying to atack anyone who she meets anew due to long gone trust issues that led to her abdomen being torn open once\nSpecial Power: Having an extremely cool scythe, and reaping heart",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "715625231540289547",
+      "type": "Default",
+      "timestamp": "2020-05-28T17:59:10.873+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Anyko [ May change ]\nHuman Name: Elizabeth Terine\nAge: 1856000\nHuman Age: 18\nDefining Characteristic: Her face and arms are dotted with star shaped markings. Tall, at around 13'\nPersonality: Loud, brash and constantly picking fights. Admittedly, she may be a bit stupid. She tends to react quite vocally to things, and isn't good at hiding how she feels about things.\nSpecial Power: Liz's stand, Backstreet Boys is a set of 5 units. They're quite powerful, although they have a small range. However, they can 'chain' together their ranges to extend the range of one of the units. Each one has a different personality",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "717232379059634236",
+      "type": "Default",
+      "timestamp": "2020-06-02T04:25:24.701+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Rogue [Perditio]\nHuman Name: Inara 'Lady Luck' \nAge:  1900089\nHuman Age: 19\nDefining Characteristic: Carries a journal with her, No memory\nPersonality: Lost, Angry and drunk, She's absolutely lost in the void\nSpecial Power: Create, Be unharmed and turn liquids into acid",
+      "author": {
+        "id": "476884063064555521",
+        "name": "Moona",
+        "discriminator": "0001",
+        "nickname": "Moona",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/476884063064555521/a_0646e3feac8f6edc3abcb1f644ad3531.gif?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "718910668455149638",
+      "type": "Default",
+      "timestamp": "2020-06-06T19:34:20.074+00:00",
+      "timestampEdited": "2020-06-20T09:29:45.313+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Resona\nHuman Name: Hibiki Minami\nAge: 1742000\nHuman Age: 17\nDefining Characteristic: Tüba. ... She's rarely seen without it.\nPersonality: Probably a bit too attached to the Tüba she carries around. She has a constant smile, and is generally quite open to new people.\nSpecial Power: Tüba. ...A Tüba so powerful it physically creates a shockwave if played right.",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "726737698575876121",
+      "type": "Default",
+      "timestamp": "2020-06-28T09:56:09.474+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name: Ketsuban\nHuman Name: Ren Lavender Anedepami\nAge: 1766848\nHuman Age: 17\nDefining Characteristic: She has skeletal wings protruding from her back, and generally tends to glitch out a lot. This also affects her voice.\nPersonality: Ketsuban is quite distant to pretty much everyone and constantly gives short answers to things to most people. She also seems really tired. She constantly is in fear of her own glitchy state, hating her usual mun form to the point that she hides as other muns as to not cause it to spread. She constantly feels she has to be extremely careful as to not break something or someone.\nSpecial Power: She's kinda glitchy, which means she can no-clip through stuff sometimes,as well as things that really shouldn't happen happening.. However, the downside of this is that it can also affect other muns or places temporarily.",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "738217220429185065",
+      "type": "Default",
+      "timestamp": "2020-07-30T02:11:40.763+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Name:\nHuman Name: Arthas Lordaeron\nAge: 1842000\nHuman Age:\nDefining Characteristic: Wears armour that seems to unravel  akin to a ribbon sometimes. Has an odd marking on one of his cheeks, and a long tail with a few things sticking off of it resembling leaves. \nPersonality: He might glare a lot, but he's actually quite easygoing and calm, having quite a bit of patience for people most of the time. \nSpecial Power: He has a stand named (I Am) All Of Me. I don't have a clue what it does yet.",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "738217779982762025",
+      "type": "Default",
+      "timestamp": "2020-07-30T02:13:54.171+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "~~i Don\"t have a solid idea for a name yet~~",
+      "author": {
+        "id": "388008391320141828",
+        "name": "erosion",
+        "discriminator": "8990",
+        "nickname": "erosion",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388008391320141828/04f2ae3ed4e3db43ba849248dd2159e4.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 49
+}
